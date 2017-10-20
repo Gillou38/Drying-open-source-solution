@@ -18,4 +18,7 @@ It's a physicochemical reaction, which extract water of something. For dietary a
 Drying is the 1st method use to conserve food, because that transformation keep a good concentration of nutriment, and reduce weight and volume.
 
 ### History
-That technic begin with the beginning of the agriculture, around 12 000 B. C. by inhabitants of the modern Middle East and Asia region. In beginning drying was realize by evaporation (air drying, sun drying ...). With time and technical evolution there actually a lot of different technic to dry food, from very low tech solution to high tech solution.
+That technic begin with the beginning of the agriculture, around 12 000 B. C. by inhabitants of the modern Middle East and Asia region. In beginning drying was realize by evaporation (air drying, sun drying ...). With time and technical evolution, there's actually a lot of different technic to dry food, from very low tech solution to high tech solution.
+
+### Our position
+We want to use at best low tech and low energy consommation solution when that is possible, and use other efficient solution when we need. Actually, we oriente the development around a solar solution with electrical assistance and regulation.
