@@ -12,11 +12,19 @@ It can be use, by fruits and vegetables producers, to transform and valorise a l
 ### Why open source ?
 Today, for a farmer, his/her technical dependance can be a real problem to have a stable life. So, we positionning us to developped the farmer autonomy by the knowledge and the know-how about the farm's tools, and specially the dryer. So that product need to make simply by DIY, or by indrustrial process and let free the farmer to optimize, modify or repare his/her product like he/she want.
 
+With open source logic, there necessary documentation, which explain, how the product work and how it can be made, to conserv the four fondamental liberty of open source :
+- Freedom to study: the right to access enough information to understand how the piece of hardware (referred herein as the product) works and to retrace the logic behind its design;
+- Freedom to modify: the right to edit the product definition documents and to tweak or develop the product further for any purpose;
+- Freedom to make: the right to use the product definition documents to manufacture the piece of hardware;
+- Freedom to distribute: the right to share or sell the product definition documents as well as the physical products fabricated according to these documents.
+
+For our application, we choose to protect all our documentation production by a GNU 
+
 ### Where we want to go ?
 To let free the producer, we want to develop a scaling method to let the producer to make his own dryer, apply for his utilisation, and in his premise. So by developing a standard dryer, we want to expand it to a group of solution, and make generic plan to create infinity solutions adapt to each producer.
 
 ## Drying 
-It's a physicochemical reaction, which extract water of something. For dietary application, the reaction need to be control to conserv the nutriment, but for a professionnal, the reaction need to be fast produce. So in how development, we try to mix that 2 constraints, to optimize the process.
+It's a physicochemical reaction, which extract water of something. For dietary application, the reaction need to be control to conserv nutriment, but for a professionnal, the reaction need to be fast. So in our development, we try to mix that 2 constraints, to optimize the process.
 
 Drying is the 1st method use to conserve food, because that transformation keep a good concentration of nutriment, and reduce weight and volume.
 
