@@ -15,3 +15,7 @@ To let free the producer, we want to develop a scaling method to let the produce
 
 ## Drying 
 It's a physicochemical reaction, which extract water of something. For dietary application, the reaction need to be control to conserv the nutriment, but for a professionnal, the reaction need to be fast produce. So in how development, we try to mix that 2 constraints, to optimize the process.
+Drying is the 1st method use to conserve food, because that transformation keep a good concentration of nutriment, and reduce weight and volume.
+
+### History
+That technic begin with the beginning of the agriculture, around 12 000 B. C. by inhabitants of the modern Middle East and Asia region. In beginning drying was realize by evaporation (air drying, sun drying ...). With time and technical evolution there actually a lot of different technic to dry food, from very low tech solution to high tech solution.
