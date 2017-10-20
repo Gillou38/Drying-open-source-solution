@@ -4,7 +4,9 @@ Develop a dietary dryer, which can articulate solar and electrical energy. Prefe
 ## Project presentation
 ### Why this project ?
 This project is an help for each producer of vegetables, plants, fruits or other kinds of food who wants to transform his/her product with drying solution.
+
 Very usefull for production of aromatic or medicinal plants, the dryer let to the producer, more of freedom to organize his/her selling and enabling himself/herself to respect natural season of production.
+
 It can be use, by fruits and vegetables producers, to transform and valorise a lot of kinds of product and diversify his/her production.
 
 ### Why open source ?
@@ -15,6 +17,7 @@ To let free the producer, we want to develop a scaling method to let the produce
 
 ## Drying 
 It's a physicochemical reaction, which extract water of something. For dietary application, the reaction need to be control to conserv the nutriment, but for a professionnal, the reaction need to be fast produce. So in how development, we try to mix that 2 constraints, to optimize the process.
+
 Drying is the 1st method use to conserve food, because that transformation keep a good concentration of nutriment, and reduce weight and volume.
 
 ### History
@@ -22,11 +25,14 @@ That technic begin with the beginning of the agriculture, around 12 000 B. C. by
 
 ### Composition of a dryer
 A dryer is compose of a drying room, where food can be stocked and dispose to be dried. In that room, there is a dry  airflow, by natural or forced convection, which flow around food to capture water present in the food. 
+
 For the more basic dryer, the drying room is the heating component, and the ventillation is make by wind, so all of the product is in only one room.
+
 For more complex solution
 
 ### Different systems
 For each soluti
+
 #### Drying room
 Dietary material
 Couche mince/couche épaisse
