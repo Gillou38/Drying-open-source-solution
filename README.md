@@ -20,5 +20,35 @@ Drying is the 1st method use to conserve food, because that transformation keep 
 ### History
 That technic begin with the beginning of the agriculture, around 12 000 B. C. by inhabitants of the modern Middle East and Asia region. In beginning drying was realize by evaporation (air drying, sun drying ...). With time and technical evolution, there's actually a lot of different technic to dry food, from very low tech solution to high tech solution.
 
+### Composition of a dryer
+A dryer is compose of a drying room, where food can be stocked and dispose to be dried. In that room, there is a dry  airflow, by natural or forced convection, which flow around food to capture water present in the food. 
+For the more basic dryer, the drying room is the heating component, and the ventillation is make by wind, so all of the product is in only one room.
+For more complex solution
+
+### Different systems
+For each soluti
+#### Drying room
+Dietary material
+Couche mince/couche épaisse
+
+#### Heat system
+Solar (direct, indirect)
+electrical
+Warm and pollute flow (biomass, wood combustion, oil ...) => echangeur thermique
+
+##### Inertial system
+
+#### Convection system
+- Natural
+- Forced
+
+#### Air flow drying system :
+- Renouvellement de l'air
+- Condensation
+- Absorption
+
 ### Our position
-We want to use at best low tech and low energy consommation solution when that is possible, and use other efficient solution when we need. Actually, we oriente the development around a solar solution with electrical assistance and regulation.
+We want to use at best low tech and low energy consommation solution when that is possible, and use other efficient solution when we need. Actually, we oriente the development around a solar solution with electrical assistance and regulation which let free a professionnal producer to dry his/her production when he/she want, even if solar energy isn't optimal.
+
+### Optimisation to keep nutriment
+A lot of study is realised around quality of food, and conservation of nutrument during transformation. Another secondary goal is to optimise and document how technical choice change the nutriment conservation.
