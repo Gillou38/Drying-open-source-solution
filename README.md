@@ -27,22 +27,22 @@ For more complex solution
 
 ### Different systems
 For each soluti
-#### Drying room
+- Drying room
 Dietary material
 Couche mince/couche épaisse
 
-#### Heat system
+####    Heat system
 Solar (direct, indirect)
 electrical
 Warm and pollute flow (biomass, wood combustion, oil ...) => echangeur thermique
 
-##### Inertial system
+- Inertial system
 
-#### Convection system
+####     Convection system
 - Natural
 - Forced
 
-#### Air flow drying system :
+####     Air flow drying system :
 - Renouvellement de l'air
 - Condensation
 - Absorption
