@@ -36,7 +36,7 @@ A dryer is compose of a drying room, where food can be stocked and dispose to be
 
 For the more basic dryer, the drying room is the heating component, and the ventillation is make by wind, so all of the product is in only one room.
 
-For more complex solution
+For more complex solutions, there's one system for each component.
 
 ### Different systems
 For each soluti
