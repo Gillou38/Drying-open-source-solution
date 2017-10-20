@@ -22,27 +22,27 @@ That technic begin with the beginning of the agriculture, around 12 000 B. C. by
 
 ### Composition of a dryer
 A dryer is compose of a drying room, where food can be stocked and dispose to be dried. In that room, there is a dry  airflow, by natural or forced convection, which flow around food to capture water present in the food. 
-For the more basic dryer, the drying room is the heating component, and the ventillation is make by wind, so all of the product is in only one room.
+For the more basic dryer, the drying room is the heating component, and the ventillation is make by wind, so all of the product is in only one room.\n
 For more complex solution
 
 ### Different systems
 For each soluti
-- Drying room
+#### Drying room
 Dietary material
 Couche mince/couche épaisse
 
-####    Heat system
+#### Heat system
 Solar (direct, indirect)
 electrical
 Warm and pollute flow (biomass, wood combustion, oil ...) => echangeur thermique
 
 - Inertial system
 
-####     Convection system
+#### Convection system
 - Natural
 - Forced
 
-####     Air flow drying system :
+#### Air flow drying system :
 - Renouvellement de l'air
 - Condensation
 - Absorption
