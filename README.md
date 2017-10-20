@@ -18,7 +18,7 @@ With open source logic, there necessary documentation, which explain, how the pr
 - Freedom to make: the right to use the product definition documents to manufacture the piece of hardware;
 - Freedom to distribute: the right to share or sell the product definition documents as well as the physical products fabricated according to these documents.
 
-For our application, we choose to protect all our documentation production by a GNU 
+For our application, we choose to protect all our documentation production by a GNU GPL v3, and our design production by a CERN Open Hardware Licence V1.2.
 
 ### Where we want to go ?
 To let free the producer, we want to develop a scaling method to let the producer to make his own dryer, apply for his utilisation, and in his premise. So by developing a standard dryer, we want to expand it to a group of solution, and make generic plan to create infinity solutions adapt to each producer.
