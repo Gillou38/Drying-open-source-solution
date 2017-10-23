@@ -64,5 +64,5 @@ Warm and pollute flow (biomass, wood combustion, oil ...) => echangeur thermique
 ### Our position
 We want to use at best low tech and low energy consummation solution when that is possible, and use other efficient solution when we need. Actually, we orient the development around a solar solution with electrical assistance and regulation which let free a professional producer to dry his/her production when he/she want, even if solar energy isn't optimal.
 
-### Optimisation to keep nutriment
+## Nutriment saving
 A lot of study is realised around quality of food, and conservation of nutriment during transformation. Another secondary goal is to optimise and document how technical choice change the nutriment conservation.
