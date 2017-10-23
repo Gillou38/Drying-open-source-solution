@@ -39,7 +39,7 @@ For the more basic dryer, the drying room is the heating component, and the vent
 For more complex solutions, there's one system for each component.
 
 ### Different systems
-For each solution, there the same kind of component, sometimes together in the same object, sometimes separate in different modules.
+For each solution, there the same kind of component, sometimes together in the same object, sometimes separate in different modules. (See state of art, for more precision)
 
 #### Drying room
 Dietary material
