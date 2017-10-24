@@ -41,12 +41,13 @@ For more complex solutions, there's one system for each component.
 ### The components
 For each solution, there the same kind of component, sometimes together in the same object, sometimes separate in different modules. (See state of art, for more precision)
 
-Quickly, we're defining the different components of a dryer.
+Quickly, we're defining the different components of a dryer, and the different technologies used.
 
 #### Drying room
 The drying room is the room where food will be dry. For this component, we need to make a state of art of dietary material.
 
 - The trays
+
 To have a good drying, the drying room, need to have trays to distribute the product to be dried, and let the airflow circulate around product. Generally, that trays are composed of food safe screens and frameworks.
 
 #### Heat system
@@ -55,7 +56,8 @@ To have a good drying, the drying room, need to have trays to distribute the pro
 - Warm and pollute flow (biomass, wood combustion, oil ...) => heat exchangeur
 
   - Thermal Inertia system
-For heat system which can't heat all the day, is possible to couple it with a inertial system, which can stock energy for the night.
+  
+For heat system which can't heat all the day, like solar system, is possible to couple it with a inertial system, which can stock energy for the night.
 
 #### Convection system
 The choice of the convection depend of the product to be dried, the speed of the drying and the thickness of the food's layer 
@@ -65,7 +67,7 @@ The choice of the convection depend of the product to be dried, the speed of the
   - Thick layer
 
 #### Air flow drying system:
-- Renouvellement de l'air
+- Air exchange
 - Condensation
 - Absorption
 
