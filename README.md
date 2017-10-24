@@ -55,7 +55,7 @@ To have a good drying, the drying room, need to have trays to distribute the pro
 - Electrical
 - Warm and pollute flow (biomass, wood combustion, oil ...) => heat exchangeur
 
-  - Thermal Inertia system
+##### Thermal Inertia system
   
 For heat system which can't heat all the day, like solar system, is possible to couple it with a inertial system, which can stock energy for the night.
 
