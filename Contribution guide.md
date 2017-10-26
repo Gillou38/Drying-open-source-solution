@@ -38,6 +38,6 @@ For each phase, we create functions which can describe precise need. Generally, 
 
 ## 5) Producing
 
-# Abstract of tools used
+# Abstract of used tools 
 - Cloud/versionning : Github
 - Documentation : Libre office
