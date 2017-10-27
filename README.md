@@ -64,10 +64,10 @@ For heat system which can't heat all the day, like solar system, is possible to 
 
 #### Convection system
 The choice of the convection depend of the product to be dried, the speed of the drying and the thickness of the food's layer 
-- Natural
-- Forced
-  - Fine layer 
-  - Thick layer
+- Natural: work with rising warm airflow 
+- Forced: work with an system which create airflow. For aromatic and medicinal plants, two kind of sizing of the system can be identified, to dry:
+  - Fine layer: only one layer of product on the trays
+  - Thick layer: around 10 or 15 centimeters of product on the trays
 
 #### Air flow drying system:
 - Air exchange
