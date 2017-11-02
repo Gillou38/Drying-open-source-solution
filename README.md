@@ -22,6 +22,7 @@ For our application, we choose to protect all our documentation production by a 
 
 ### Where we want to go?
 To let free the producer, we want to develop a scaling method to let the producer to make his own dryer, apply for his utilisation, and in his premise. So by developing a standard dryer, we want to expand it to a group of solution, and make generic plan to create infinity solutions adapt to each producer.
+Coupled with that, we want to organise information and test dryer, to create a data base with lot of organised information around drying, easy to reach.
 
 ### How to contribute
 Everybody can help, just by supporting the project, by promotting it or by helping to develop the project. For most precise description see "Contribution guide.md" document.
