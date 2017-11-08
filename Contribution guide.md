@@ -17,13 +17,16 @@ That project will be organize in different operations :
 5) Produce the project, make and sell the product or educate people to make it
 
 ## 1) Promoting, speaking 
-All kinds of contribution are wellcome, speak about the project, report dryers make.
+All kinds of contribution are wellcome, speak about the project.
 
 ## 2) How to propose an idea and reporting a creation
 ### 2.1) Propose an idea
 Actually the simpler solution is to post an [issue](https://github.com/Gillou38/Drying-open-source-solution/issues). 
 Once create, may be to speak about that proposition like on a forum, detailled it, modify it ...
-### 2.2) 
+### 2.2) Report a dryer
+You can report dryers make with a new .odt file (1 file by dryer)
+### 2.3) Organise different technology of dryer's components
+On [state of art](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.odt), we try to organized different components usable in a dryer, there advantages and there disadvantages.
 
 ## 3) Developping
 It's the bigger part of the project, it begin with statement of the need, the aim of the product and finish with prototyping documentation.
