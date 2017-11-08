@@ -25,7 +25,7 @@ To let free the producer, we want to develop a scaling method to let the produce
 Coupled with that, we want to organise information and test dryer, to create a data base with lot of organised information around drying, easy to reach.
 
 ### How to contribute
-Everybody can help, just by supporting the project, by promotting it or by helping to develop the project. For most precise description see "Contribution guide.md".[Contribution guide](http://localhost/)
+Everybody can help, just by supporting the project, by promotting it or by helping to develop the project. For most precise description see [Contribution guide](https://github.com/Gillou38/Drying-open-source-solution/blob/master/Contribution%20guide.md).
 
 ## Drying 
 It's a physicochemical reaction, which extract water of something. For dietary application, the reaction need to be control to conserve nutriment, but for a professional, the reaction need to be fast. So in our development, we try to mix that 2 constraints, to optimize the process.
