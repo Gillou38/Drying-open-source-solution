@@ -6,7 +6,10 @@ If you want to take part during either activities of the group, you're welcome, 
 
 That project will be organize in different operations :
 1) Promote the project, speak about the project
-2) [Propose ideas to develop](https://github.com/Gillou38/Drying-open-source-solution/issues) and report creation 
+2) [Ideas's sourcing](https://github.com/Gillou38/Drying-open-source-solution/tree/master/01%20-%20Ideas%20and%20concepts)
+- [Propose ideas to develop](https://github.com/Gillou38/Drying-open-source-solution/issues) 
+- Report creation
+- (Organised state of art)[https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.odt]
 3) [Developing](https://github.com/Gillou38/Drying-open-source-solution/tree/master/02%20-%20Developing)
 - [Formalize technical problems](https://github.com/Gillou38/Drying-open-source-solution/tree/master/02%20-%20Developing/01%20-%20Functional%20analysis) (Functional analysis)
 - Propose and develop technical solution (FAST - Function Analysis System Technique)
@@ -18,7 +21,8 @@ That project will be organize in different operations :
 4) Protyping, test and analyse results
 5) Produce the project, make and sell the product or educate people to make it
 
-## 1) Promoting, speaking about the project
+## 1) Sourcing
+### Promoting, speaking about the project
 All kinds of contribution are wellcome, speak about the project.
 
 ## 2) How to propose an idea and reporting a creation
