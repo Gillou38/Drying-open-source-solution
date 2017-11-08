@@ -9,7 +9,7 @@ That project will be organize in different operations :
 2) [Ideas's sourcing](https://github.com/Gillou38/Drying-open-source-solution/tree/master/01%20-%20Ideas%20and%20concepts)
 - [Propose ideas to develop](https://github.com/Gillou38/Drying-open-source-solution/issues) 
 - Report creation
-- (Organised state of art)[https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.odt]
+- [Organised state of art](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.odt)
 3) [Developing](https://github.com/Gillou38/Drying-open-source-solution/tree/master/02%20-%20Developing)
 - [Formalize technical problems](https://github.com/Gillou38/Drying-open-source-solution/tree/master/02%20-%20Developing/01%20-%20Functional%20analysis) (Functional analysis)
 - Propose and develop technical solution (FAST - Function Analysis System Technique)
