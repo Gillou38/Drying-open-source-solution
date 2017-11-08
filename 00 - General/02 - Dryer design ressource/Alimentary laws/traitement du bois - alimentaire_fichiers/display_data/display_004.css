@@ -1,0 +1,230 @@
+body {
+	background: #FFFFFF url(http://archive.wikiwix.com/cache/display.php?url=http://www.minefe.gouv.fr/css/../img/bg_colg.gif) repeat-y 0px 0px;
+}
+#header {
+	background: url(http://archive.wikiwix.com/cache/display.php?url=http://www.minefe.gouv.fr/css/../img/bg_header-gene.jpg) no-repeat 0px 0px;
+}
+#colg {
+}
+#colg ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	background: #7fd5f6;
+	line-height: 1.3em;
+}
+#colg li {
+	border-top: 1px solid #CBE6ED;
+	padding: 0px 0px 0px 15px;
+	background: url(http://archive.wikiwix.com/cache/display.php?url=http://www.minefe.gouv.fr/css/../img/th_plus.gif) no-repeat 3px 3px;
+}
+#colg li:hover {
+	background: url(http://archive.wikiwix.com/cache/display.php?url=http://www.minefe.gouv.fr/css/../img/th_plus_ani.gif) no-repeat 3px 3px;
+}
+#colg a {
+	color: #19328F;
+}
+#colg a:hover {
+	text-decoration: none;
+}
+#colg li#actif {
+	background: url(http://archive.wikiwix.com/cache/display.php?url=http://www.minefe.gouv.fr/css/../img/th_minus.gif) no-repeat 3px 3px;
+}
+#colg li#actif a {
+	color: #BB2B2B;
+}
+
+#colg .colg-blok ul.mktree li {
+/*	border-top: none;*/
+	padding: 0;
+	background: transparent;
+	}
+#colg .colg-blok ul.mktree li:hover {
+	background: transparent;
+	}
+
+#colg .colg-blok ul.mktree li ul li {
+	padding: 0 0 0 1em;
+	}
+
+#colg #themes ul.mktree li {
+	border-top: none;
+	padding: 0;
+	background: transparent;
+	}
+#colg #themes ul.mktree li:hover {
+	background: transparent;
+	}
+
+#colg #themes ul.mktree li ul li {
+	padding: 0 0 0 1em;
+	}
+
+
+#navpath {
+	font-size: 0.65em;
+	margin: 0em 0em 1.5em;
+	color: #6BB7CA;
+}
+#navpath a {
+	color: #6BB7CA;
+}
+#hautp h2 {
+	font-size: 0.9em;
+	/* color: #F7BF00; */
+	color:#8E4098;
+	margin: 0em 0em 0.5em !important;
+	padding: 3px 0px 5px !important;
+	border-bottom: 1px solid #636363;
+}
+.sansligne  {
+	font-size: 0.9em;
+	/* color: #F7BF00; */
+	color:#8E4098;
+	margin: 0em 0em 0.5em !important;
+	padding: 3px 0px 5px !important;
+}
+#colg h3 {
+	font-size: 1.45em;
+	color: #ffffff;
+	background: url(http://archive.wikiwix.com/cache/display.php?url=http://www.minefe.gouv.fr/css/../img/bg_h-colg_gene.gif) no-repeat 0px 0px;
+	text-align: center;
+	margin: 0px;
+	padding: 15px 0px 2px;
+}
+
+.blocwend h4 {
+	font-size: 0.9em;
+	background: #FFFFFF;
+	margin: 0em;
+	color: #2C99B4;
+	text-align: center;
+	padding: 0.5em 0em 0.25em;
+/*	letter-spacing: 1px;
+	font-weight:bold; */
+}
+
+.blocwend2 h4 {
+	font-size: 0.9em;
+	background: #FFFFFF;
+	margin: 0em;
+	color: #F8C000;
+	text-align: center;
+	padding: 0.5em 0em 0.25em;
+}
+
+.blocwend-dir {
+	background: #DDC5E0 url(http://archive.wikiwix.com/cache/display.php?url=http://www.minefe.gouv.fr/css/../img/bg_ends_cold.gif) no-repeat 0% 100%;
+	padding: 0px 0px 18px;
+	margin: 0px 0px 22px;
+}
+.blocwend-dir ul {
+	margin: 0.5em 1em;
+	padding: 0px;
+	list-style-type: none;
+	font-size: 0.65em;
+	line-height: 1.2em;
+}
+.blocwend-dir li {
+	background: url(http://archive.wikiwix.com/cache/display.php?url=http://www.minefe.gouv.fr/css/../img/fl_bleu_bg_bleu.gif) no-repeat 0px 3px;
+	padding: 0px 0px 3px 13px;
+}
+.blocwend-dir h3 {
+	font-size: 0.9em;
+	background: #FFFFFF;
+	margin: 0em;
+	color: #DDC5E0;
+	text-align: center;
+	padding: 0.5em 0em 0.25em;
+}
+.centre_blok-dir {
+	margin: 0px 0px 22px;
+	float: left;
+	width: 100%;
+}
+.centre_blok-dir h3 {
+	border-bottom: 1px solid #636363;
+	margin: 0 0 0.75em;
+	font-size: 0.9em;
+	color: #1D267F !important;
+	padding: 0px 0px 0px 10px;
+}
+
+#centre .centre_blok-dir h3 {
+	border-bottom: 1px solid #636363;
+	margin: 0 0 0 0;
+	font-size: 0.9em;
+	color: #1D267F !important;
+	padding: 0px 0px 0px 10px;
+
+	background: #FFFFFF;
+	line-height: 1.1em;
+	letter-spacing: 0px;
+}
+
+.centre_blok-dir p.arrow {
+	font-size: 0.7em;
+	margin: 0 0 0.25em;
+	background: url(http://archive.wikiwix.com/cache/display.php?url=http://www.minefe.gouv.fr/css/../img/fl_gris_bg_blanc.gif) no-repeat 0px 3px;
+	padding: 0px 0px 0px 12px;
+}
+#actu-dir img {
+	float: left;
+}
+#actu-dir .article {
+	margin: 0 0 0.75em 0;
+}
+#actu-dir .article p {
+	font-size: 0.7em;
+	margin: 0px 0px 0px 96px;
+}
+#actu p.titre {
+	font-weight: bold;
+	color: #1D267F !important;
+	margin-bottom: 0.5em;
+}
+#actu-dir p.tout {
+	font-weight: bold;
+	color: #1D267F;
+}
+#actu-dir p.tout a {
+	color: #1D267F;
+}
+.aplatcolor {
+	clear: both;
+	background: #FDF3CC;
+	padding: 0.5em;
+}
+.aplatcolor ul, .aplatcolor li {
+	margin: 0px !important;
+	padding: 0px !important;
+}
+.aplatcolor li {
+	padding-left: 7px !important;
+}
+
+#centre ul {
+	font-size: 0.7em;
+	margin: 1em 0em;
+	padding: 0;
+}
+#centre ul ul {
+	font-size: 1em;
+	margin: 0;
+}
+#centre li {
+	margin: 0px 0px 3px;
+	background: url(http://archive.wikiwix.com/cache/display.php?url=http://www.minefe.gouv.fr/css/../img/carre_gris.gif) no-repeat 0px 7px;
+	line-height: 1.6em;
+	padding: 0px 0px 0px 7px;
+	list-style-type: none;
+}
+
+#centre p {
+	font-size: 0.7em;
+	margin: 1em 0em 0.5em;
+}
+#centre p.copy {
+	font-size: 0.65em;
+	font-style: italic;
+}

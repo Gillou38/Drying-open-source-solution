@@ -1,0 +1,92 @@
+body {
+	margin:0;
+	background:#FEFEFE;
+}
+.nav-panel {
+	width:100%;
+	overflow:hidden;
+	background:#F1F1F1 url(../images/nav-panel-bg.gif) repeat-x left bottom;
+}
+.nav-panel ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:left;
+	font-size:9px;
+	overflow:hidden;
+	}
+.nav-panel ul.right {float:right;}
+.nav-panel li {
+	float:left;
+	padding:7px 3px 5px 8px;
+	/*margin-left:-1px;*/
+	background:url(../images/split.gif) no-repeat left center;
+}
+.nav-panel li a {
+	color:#09f;
+	display:block;
+	padding-bottom:2px;
+	font-size:9px;}
+.nav-panel li.active a {
+	font-weight:bold;
+	text-decoration:none;
+	font-size:9px ;
+}
+.nav-panel li.rss a {
+	background:url(../images/ico-rss.gif) no-repeat;
+	padding-left:18px;
+}
+a.wikiondvd{
+     float: left;
+     height: 25px;
+     width:59px;
+     background: url(../images/wikiondvd_logo_bot.png) no-repeat;
+	 /*margin:0px;*/
+	 margin-top:1px;
+}
+a.wikiactu{
+     float: left;
+     height: 25px;
+     width: 50px;
+     background: url(../images/wikiactu_logo_bot.png) no-repeat;
+	/* margin:0px;*/
+	 margin-top:1px;
+}
+a.mywikix{
+     float: left;
+     height: 25px;
+     width: 50px;
+     background: url(../images/mywiki_logo_bot.png) no-repeat;
+	 /*margin:0px;*/
+	 margin-top:1px;
+}
+a.linterweb{
+     float: left;
+     height: 25px;
+     width: 50px;
+     background: url(../images/linterweb_logo_bot.png) no-repeat;
+	 /*margin:0px;*/
+	 margin-top:1px;
+}
+a.wikiwix{
+     float: left;
+     height: 25px;
+     width: 50px;
+     background: url(../images/wikiwix_logo_bot.png) no-repeat;
+	 /*margin:0px;*/
+	 margin-top:1px;
+}
+a.contact{
+     float: left;
+     height: 25px;
+     width: 42px;
+     background: url(../images/contact_logo_bot.png) no-repeat;
+	 /*margin:0px;*/
+	 margin-top:1px;
+}
+ul.projets{
+	color:#666;	
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+  text-align:center; font:9px;}
+ul.projets a { text-decoration:underline;}
+ul.projets a:hover {text-decoration:none;} 

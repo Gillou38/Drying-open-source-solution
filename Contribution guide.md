@@ -23,7 +23,8 @@ All kinds of contribution are wellcome, speak about the project, report dryers m
 Actually the simpler solution is to post an issue (https://github.com/Gillou38/Drying-open-source-solution/issues).Once create, may be to speak about that proposition like on a forum, detailled it, modify it ...
 
 ## 3) Developping
-It's the bigger part of the project, it begin with tatement of the need, the aim of the product and finish with prototyping documentation.
+It's the bigger part of the project, it begin with statement of the need, the aim of the product and finish with prototyping documentation.
+### 3.1) Functional analysis
 - Formalise technical problems : "How we want to the product work ?" :
 For that we distinguish different phase :
   - Using phase
@@ -34,6 +35,13 @@ For each phase, we create functions which can describe precise need. Generally, 
   - Principal function : that's the aim of the product, ~ Dry food
   - Using functions : that's optimisation functions for a good utilisation of the system, like "Be ergonomic"
   - Constraint functions : that the limit of the other functions, like "Don't burn food"
+
+- Develope (and propose) technical solutions
+We use FAST diagram for that. It's an abstract technic to generate and organize technical functions and technical solutions.
+
+- Choice of technical solutions 
+We use, SADT diagram. It's a more concrete solution, which place each action in relation to other action, and make plan of the process.
+
 
 ## 4) Prototyping
 
