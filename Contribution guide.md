@@ -20,7 +20,8 @@ That project will be organize in different operations :
 All kinds of contribution are wellcome, speak about the project, report dryers make.
 
 ## 2) How to propose an idea
-Actually the simpler solution is to post an [issue] (https://github.com/Gillou38/Drying-open-source-solution/issues).Once create, may be to speak about that proposition like on a forum, detailled it, modify it ...
+Actually the simpler solution is to post an [issue](https://github.com/Gillou38/Drying-open-source-solution/issues). 
+Once create, may be to speak about that proposition like on a forum, detailled it, modify it ...
 
 ## 3) Developping
 It's the bigger part of the project, it begin with statement of the need, the aim of the product and finish with prototyping documentation.
