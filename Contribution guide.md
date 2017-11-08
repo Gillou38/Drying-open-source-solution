@@ -16,7 +16,7 @@ That project will be organize in different operations :
 4) Protyping, test and analyse results
 5) Produce the project, make and sell the product or educate people to make it
 
-## 1) Promoting, speaking 
+## 1) Promoting, speaking about the project
 All kinds of contribution are wellcome, speak about the project.
 
 ## 2) How to propose an idea and reporting a creation
