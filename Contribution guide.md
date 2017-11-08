@@ -14,7 +14,7 @@ That project will be organize in different operations :
 - Model the product to create physical model
 - Writing documentation to fabricate the product
 4) Protyping, test and analyse results
-5) Produce the project,make and sell the product or educate people to make it
+5) Produce the project, make and sell the product or educate people to make it
 
 ## 1) Promoting, speaking 
 All kinds of contribution are wellcome, speak about the project, report dryers make.
