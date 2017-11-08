@@ -10,6 +10,8 @@ That project will be organize in different operations :
 3) [Developing](https://github.com/Gillou38/Drying-open-source-solution/tree/master/02%20-%20Developing)
 - [Formalize technical problems](https://github.com/Gillou38/Drying-open-source-solution/tree/master/02%20-%20Developing/01%20-%20Functional%20analysis) (Functional analysis)
 - Propose and develop technical solution (FAST - Function Analysis System Technique)
+- Organization of technical solution in the process (SADT - Structured Analysis and Design Technic)
+- Choice of technical solutions 
 - Design technical solution (CAD)
 - Model the product to create physical model
 - Writing documentation to fabricate the product
