@@ -26,7 +26,9 @@ Coupled with that, we want to organise information and test dryer, to create a d
 
 ### How to contribute
 Everybody can help, just by supporting the project, by promotting it or by helping to develop the project. 
+
 Even if you don't know how you can help, you can come with us to learn how to design a product, what's the classic process. We try to set a learning method up, with explication of what we do.
+
 For most precise description see [Contribution guide](https://github.com/Gillou38/Drying-open-source-solution/blob/master/Contribution%20guide.md).
 
 ## Drying 
