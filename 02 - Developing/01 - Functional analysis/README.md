@@ -8,4 +8,9 @@
 
 
 ## The aim
-The functional analysis is a design method which divise the need of a product, or a service, in different functions to create a group of very simple studies
+The functional analysis is a design method which divise the need of a product, or a service, in different functions to create a group of very simple studies.
+
+## The process
+The process is decompose in different analysis :
+- Phase analysis: the phase correspond to the different kind of using of the product, like using phase, supplying phase, cleaning phase ... For each phase, different function can appeared and exist only for that phase.
+- Octopus diagram: representation of the product, the study, and  the interactor, all ellement in relation with the product
