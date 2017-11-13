@@ -16,7 +16,10 @@ The process is decompose in different analysis :
 
 For our study, we try to explore the most of solution at the beginning, to after, if we want, reduce the study to a few of function which interess us. The aim of that practice is to open a maximum of solutions, and motivate people to realise complementary studies.
 
-**- Octopus diagram**: representation of the product, the study, and the interactor, all ellement in relation with the product. Each interaction, will be defined by a function of the product.
+**- Octopus diagram**: representation of the product, the study, and the interactor, all ellement in relation with the product. Each interaction, will be defined by a function of the product :
+- PF: principaly function, that's the need of the product
+- UF: using fonction, that's the condition to have a good using of the product
+- CF: constraint function, that's the limit of the using
 
 ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/02%20-%20Developing/01%20-%20Functional%20analysis/00%20-%20General/Picture%20ressource/Octopus%20diagram.png)
 
