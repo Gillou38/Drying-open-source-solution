@@ -12,6 +12,8 @@ It can be use, by fruits and vegetables producers, to transform and valorise a l
 ### Why open source?
 Today, for a farmer, his/her technical dependence can be a real problem to have a stable life. So, we positioning us to developed the farmer autonomy by the knowledge and the know-how about the farm's tools, and specially the dryer. So that product need to make simply by DIY, or by industrial process and let free the farmer to optimize, modify or repair his/her product like he/she want.
 
+We try to document design process to let people join the group easily, and to educate peoples who don't know how a product is designing. 
+
 With open source logic, there's necessary documentation, which explain, how the product works and how it can be made, to conserve the four fundamental liberty of open source:
 - Freedom to study: the right to access enough information to understand how the piece of hardware (referred herein as the product) works and to retrace the logic behind its design;
 - Freedom to modify: the right to edit the product definition documents and to tweak or develop the product further for any purpose;
