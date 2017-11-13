@@ -29,7 +29,7 @@ Everybody can help, just by supporting the project, by promotting it or by helpi
 
 Even if you don't know how you can help, you can come with us to learn how to design a product, what's the classic process. We try to set a learning method up, with explication of what we do.
 
-For most precise description see [Contribution guide](https://github.com/Gillou38/Drying-open-source-solution/blob/master/Contribution%20guide.md).
+For most precise description, see [Contribution guide](https://github.com/Gillou38/Drying-open-source-solution/blob/master/Contribution%20guide.md).
 
 ## Drying 
 It's a physicochemical reaction, which extract water of something. For dietary application, the reaction need to be control to conserve nutriment, but for a professional, the reaction need to be fast. So in our development, we try to mix that 2 constraints, to optimize the process.
