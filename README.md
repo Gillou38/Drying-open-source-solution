@@ -39,7 +39,7 @@ It's a physicochemical reaction, which extract water of something. For dietary a
 Drying is the 1st method use to conserve food, because that transformation keeps a good concentration of nutriment, and reduce weight and volume.
 
 ### History
-That technic begins with the beginning of the agriculture, around 12 000 B. C. by inhabitants of the modern Middle East and Asia region. In beginning drying was realize by evaporation (air drying, sun drying ...). With time and technical evolution, there's actually a lot of different technic to dry food, from very low tech solution to high tech solution.
+That technic begins with the beginning of the agriculture, around 12 000 B. C. by inhabitants of the modern Middle East and Asia region. In beginning drying was realize by evaporation (air drying, sun drying ...). With time and technical evolution, there's actually a lot of different technic to dry food, from very low tech solution to high tech solution (we exclude freezing drying, because it's a very different process).
 
 ### Composition of a dryer
 A dryer is composing of a drying room, where food can be stocked and dispose to be dried. In that room, there is a dry airflow, by natural or forced convection, which flow around food to capture water present in the food. 
