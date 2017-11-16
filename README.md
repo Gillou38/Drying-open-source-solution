@@ -3,27 +3,30 @@ Develop a dietary dryer, which can articulate solar and electrical energy. Prefe
 
 ## Project presentation
 ### Why this project?
-This project is a help for each producer of vegetables, plants, fruits or other kinds of food who wants to transform his/her product with drying solution.
+This project is an help for each producer of vegetables, plants, fruits or other kinds of food goods who wants to transform his/her product with an effective drying solution.
 
-Very useful for production of aromatic or medicinal plants, the dryer let to the producer, more of freedom to organize his/her selling and enabling himself/herself to respect natural season of production.
+Very useful for production of aromatic or medicinal plants, the dryer is a source of freedom for the producers : thez can organize themself the food processing and selling according to the seasonal variations.
 
-It can be use, by fruits and vegetables producers, to transform and valorise a lot of kinds of product and diversify his/her production.
+It can be use, by fruits, vegetables and plants producers, to transform and valorise a lot of kinds of product and it could be an opportunity to diversify his/her production (dry tisane, apples, tomatoes ...).
 
 ### Why open source?
-Today, for a farmer, his/her technical dependence can be a real problem to have a stable life. So, we positioning us to developed the farmer autonomy by the knowledge and the know-how about the farm's tools, and specially the dryer. So that product need to make simply by DIY, or by industrial process and let free the farmer to optimize, modify or repair his/her product like he/she want.
+Today, for a farmer, his/her technical dependence can be a real problem to have a stable life. That's why, we're positioning us to develope the farmer autonomy by the knowledge and the know-how about the farm's tools, and especially the dryer. So that product need to be make simply by DIY, or by industrial process and let free the farmer to optimize, modify or repair his/her product like he/she wants.
 
-We try to document design process to let people join the group easily, and to educate peoples who don't know how a product is designing. 
+We try to document design process to let people join the group easily, and to educate peoples to understand how a product is designing from A to Z. 
 
-With open source logic, there's necessary documentation, which explain, how the product works and how it can be made, to conserve the four fundamental liberty of open source:
+With open source logic, there's necessary documentation, which explain, how the product works and how it can be made. In order to conserve the four fundamental liberty of open source:
 - Freedom to study: the right to access enough information to understand how the piece of hardware (referred herein as the product) works and to retrace the logic behind its design;
 - Freedom to modify: the right to edit the product definition documents and to tweak or develop the product further for any purpose;
 - Freedom to make: the right to use the product definition documents to manufacture the piece of hardware;
 - Freedom to distribute: the right to share or sell the product definition documents as well as the physical products fabricated according to these documents.
 
-For our application, we choose to protect all our documentation production by a GNU GPL v3, and our design production by a CERN Open Hardware Licence V1.2.
+For our application, we chose to protect all our documentation production by a GNU GPL v3, and our design production by a CERN Open Hardware Licence V1.2.
 
 ### Where we want to go?
-To let free the producer, we want to develop a scaling method to let the producer to make his own dryer, apply for his utilisation, and in his premise. So by developing a standard dryer, we want to expand it to a group of solution, and make generic plan to create infinity solutions adapt to each producer.
+We want to develop a scaling method to let the producer to make his own dryer, adapted for his utilisation, and in his/her infrastructure. All of that to maintain and improve the producer's autonomy.
+
+So by developing a standard dryer, we want to expand it to a group of solution, and make generic frame ready to be modifies in an infinity of solutions adapted to each producer.
+
 Coupled with that, we want to organise information and test dryer, to create a data base with lot of organised information around drying, easy to reach.
 
 ### How to contribute
