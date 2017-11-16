@@ -1,6 +1,6 @@
 # Dryer-open-source-solution
 Develop a dietary dryer, which can articulate solar and electrical energy. Preferring develop for professional farmer to get liberty and technical autonomy.
--
+
 ## Project presentation
 ### Why this project?
 This project is a help for each producer of vegetables, plants, fruits or other kinds of food who wants to transform his/her product with drying solution.
