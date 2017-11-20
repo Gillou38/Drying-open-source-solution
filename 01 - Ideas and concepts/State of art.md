@@ -116,34 +116,32 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 #### 3. Trays
 ##### - Fabric
 
-
-
-
-
+![Fabric](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20fabric.jpg)
 
 ##### - Screen
 
-##### - bar
+![Screen](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20screen.jpg)
 
+##### - Bar
 
-
-
-
-
+![Bar](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20bar.jpg)    ![Bar(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20bar(2).jpg)
 
 ##### - Pic
 
+![Pic](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20pic.jpg)
 
 ##### - Forklift - Mobile trays
+
+![Mobile trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20Forklift%20-%20Mobile%20trays.jpg)
 
 ### 4. Heat source
 Heat source is one of technical problem of dryer. Between effectiveness and energy independence, there is a real work to search what kind of heat source to what kind of application, to optimize known heat source and to mix some kind of heat source.
 #### A. Solar (warm and non pollute flow)
-Kind of caption
-##### Direct:
+##### Kind of caption
+###### Direct:
 
-##### Indirect:
-###### Glassed
+###### Indirect:
+- Glassed
 Simple or double glazing
 Black absorber, alimentary paint?
 
@@ -154,10 +152,10 @@ Black absorber, alimentary paint?
 
 
 
-###### Opaque
+- Opaque
 
 
-##### Mixed (direct + indirect)
+###### Mixed (direct + indirect)
 
 
 
