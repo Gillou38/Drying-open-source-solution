@@ -92,7 +92,7 @@ That the very hard part of the state of art, a lot of forms of dryer was experim
 Maybe there dryers which can be regroup in the same category but to be sure to list all kind of dryer, we separate all little difference.
 ##### - Shell type (indirect solar natural convection)
 
-![Shell Type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20plastic.jpg)
+![Shell Type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20shell%20type.jpg)
 
 ##### - Vertical type with trays
 
@@ -140,27 +140,23 @@ Heat source is one of technical problem of dryer. Between effectiveness and ener
 ##### Kind of caption
 ###### Direct:
 
+![Solar direct](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20direct.jpg)
+
 ###### Indirect:
 - Glassed
 Simple or double glazing
 Black absorber, alimentary paint?
 
-
-
-
-
-
-
+![Solar indirect glassed](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed.jpg)    
+![Solar indirect glassed(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed(2).jpg)
 
 - Opaque
 
+![Solar indirect opaque](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed.jpg)    ![Solar indirect opaque(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed(2).jpg)    ![Solar indirect opaque(3)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed(3).jpg)
 
 ###### Mixed (direct + indirect)
 
-
-
-
-
+![Solar indirect opaque(3)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20mixed.jpg)
 
 ##### Other parameters
 ###### Positioning
