@@ -338,8 +338,6 @@ Tout les composants d’entrée
 - Wood solar dryer
 Notice for one : https://pubs.ext.vt.edu/content/dam/pubs_ext_vt_edu/420/420-030/420-030_pdf.pdf
 
-# Dryer for liquid
-
 other state of art :
 https://www.stejarmasiv.ro/uscator-de-lemn-solar/
 https://www.builditsolar.com/Projects/WoodDrying/wood_kiln.htm
@@ -376,6 +374,6 @@ https://www.builditsolar.com/Projects/WoodDrying/wood_kiln.htm
 
 
 
-Dryer for pumpable product (liquid, dought …)
+# Dryer for pumpable product (liquid, dought …)
 
-Dryer for powedered product (crumbled vegetables, pulp, cereals ... )
+# Dryer for powedered product (crumbled vegetables, pulp, cereals ... )
