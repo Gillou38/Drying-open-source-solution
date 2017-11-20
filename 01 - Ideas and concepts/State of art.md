@@ -9,14 +9,17 @@ There is a lot of different kind of dryer, from the little dryer for domestic ap
 Actually we can’t precisely defined size in function of application, it depends of the food goods.
 #####	- Domestic
 That’s kind of dryer could be used by a single man/women or a family for their own food.
+
 ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Size%20-%20Domestic%20dryer.jpg)
 
 #####	- Little production
-That size of dryer, is adapted to little company, people which want to sell product at local market
+That size of dryer, is adapted to little company, people which want to sell product at local market.
+
 ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Size%20-%20Little%20production%20dryer.jpg)
 
 #####	- Industrial production
 Dryer adapted for industrial production, sell product in large region.
+
 ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Size%20-%20Industrial%20production%20dryer.jpg)
 
 #### B. Organization
