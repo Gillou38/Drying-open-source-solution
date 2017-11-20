@@ -1,4 +1,4 @@
-# <p style="text-align:center"; State of art </p>
+# <p> style="text-align:center"; State of art </p>
 
 For basics category, we inspire by *“Les séchoirs solaires – Théorie et pratique”* de Michel Daguenet, because he made a huge work about drying science, and more applied to solar drying.
 # Dryer for solid, centimetre scale
