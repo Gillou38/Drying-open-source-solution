@@ -1,4 +1,5 @@
-# State of art 
+# <p style="text-align:center"; State of art </p>
+
 For basics category, we inspire by *“Les séchoirs solaires – Théorie et pratique”* de Michel Daguenet, because he made a huge work about drying science, and more applied to solar drying.
 # Dryer for solid, centimetre scale
 That document try to make an inventory of all kind of dryer, and technology which could be used to dry, from the convective drying to the freeze drying, and defined each technology (electric, solar ...) used in each kind of dryers. For the 2nd level category (convective, …) we choose to class them by kind of technology. Maybe, we can found a best classification.
@@ -24,10 +25,12 @@ Dryer adapted for industrial production, sell product in large region.
 
 #### B. Organization
 #####  - Mono-bloc
-That kind of organisation could be a compact organization (like a multi-bloc organization hook together) or an all in drying room organization
+That kind of organisation could be a compact organization (like a multi-bloc organization hook together) or an all in drying room organization.
+
 Advantages:
-easy to make, no pipe to link each part
-compact
+- easy to make, no pipe to link each part
+- compact
+
 Disadvantages:
 - not transportable for middle size (size of a big wardrobe) of dryer
 - 
@@ -36,9 +39,10 @@ Disadvantages:
 
 #####   - Multi-bloc
 Advantages:
-can be move by part, maybe can be taken apart (démonté)
+- can be move by part, maybe can be taken apart (démonté)
+
 Disadvantages: 
-lost energy (temperature and airflow) in pipe
+- lost energy (temperature and airflow) in pipe
 
 ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20multi-bloc.jpg)
 
