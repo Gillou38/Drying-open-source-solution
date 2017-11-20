@@ -163,20 +163,12 @@ Black absorber, alimentary paint?
 Azimuth
 Normal of the ground
 ###### Inertial system (conservation of energy)
-Stone 
-
+- Stone 
+![Inertial system)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20inertial%20system.jpg)
 
 #### B. Electrical (resistor)
 
-
-
-
-
-
-
-
-
-
+![Electrical)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20electrical.jpg)
 
 #### C. Warm and pollute flow
 That kind of heat source need a heat exchanger to separate pollute flow and drying flow.
@@ -185,27 +177,15 @@ That kind of heat source need a heat exchanger to separate pollute flow and dryi
 Different kind of heat exchanger can be used to transfer energy from 1st fluid to a 2nd fluid. For beginning, we stay only in airflow exchanger.
 ###### Plate type
 
-
-
-
-
-
+![Plate type)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20exchanger%20-%20plate%20type.jpg)
 
 ###### Thermal wheel type
 
-
-
-
-
+![Thermal wheel type)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20exchanger%20-%20Thermal%20wheel%20type.jpg)
 
 ###### Tubular type
 
-
-
-
-
-
-
+![Tubular type)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20exchanger%20-%20tubular%20type.jpg)
 
 ##### Heat source
 Compost
