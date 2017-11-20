@@ -32,7 +32,7 @@ Disadvantages:
 - not transportable for middle size (size of a big wardrobe) of dryer
 - 
 
-![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20compact%20organization.jpg)
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20compact%20organization.jpg)    ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20All%20in%20drying%20room.jpg)       ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20All%20in%20drying%20room(2).jpg)
 
 #####   - Multi-bloc
 Advantages:
@@ -40,7 +40,7 @@ can be move by part, maybe can be taken apart (démonté)
 Disadvantages: 
 lost energy (temperature and airflow) in pipe
 
-![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20multi-bloc.jpg)    ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20All%20in%20drying%20room.jpg)       ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20All%20in%20drying%20room(2).jpg)
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20multi-bloc.jpg)
 
 #### C. Transportable
 ##### 1) Fixe
@@ -49,11 +49,17 @@ We don’t imaged that kind of dryer because it could defined by a very large pa
 ######   - Portable
 Defined by little dryer, which integrate handle or part which can be considered like handle, and which can be transport by maximum 2 peoples.
 
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Transportable%20-%20Portable.jpg)
+
 ######   - Pliable
 The same restriction than a “portable” dryer, which pliable part to make an easy to transport dryer when it necessary.
 
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Transportable%20-%20Pliable.png)
+
 ######   - Wheel
 Dryer which integrate one or more wheel to transport it.
+
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Transportable%20-%20Wheels.jpg)
 
 ### 3. Drying room
 #### Materials
