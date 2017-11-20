@@ -1,6 +1,6 @@
 # State of art 
-For basics category, we inspire by “Les séchoirs solaires – Théorie et pratique” de Michel Daguenet, because he made a huge work about drying science, and more applied to solar drying.
-Dryer for solid, centimetre scale
+For basics category, we inspire by *“Les séchoirs solaires – Théorie et pratique”* de Michel Daguenet, because he made a huge work about drying science, and more applied to solar drying.
+# Dryer for solid, centimetre scale
 That document try to make an inventory of all kind of dryer, and technology which could be used to dry, from the convective drying to the freeze drying, and defined each technology (electric, solar ...) used in each kind of dryers. For the 2nd level category (convective, …) we choose to class them by kind of technology. Maybe, we can found a best classification.
 ## Convective drying
 ### 1. Global parameters
@@ -47,22 +47,22 @@ lost energy (temperature and airflow) in pipe
 
 
 
-### 2. Transportable
-#### a) Fixe
+#### C. Transportable
+##### 1) Fixe
 We don’t imaged that kind of dryer because it could defined by a very large panel of dryer. So we consider in that category all dryer which can’t be transport by 2 or less humans.
-#### b) Transportable
-#####   - Portable
+##### 2) Transportable
+######   - Portable
 Defined by little dryer, which integrate handle or part which can be considered like handle, and which can be transport by maximum 2 peoples.
 
-#####   - Pliable
+######   - Pliable
 The same restriction than a “portable” dryer, which pliable part to make an easy to transport dryer when it necessary.
 
-#####   - Wheel
+######   - Wheel
 Dryer which integrate one or more wheel to transport it.
 
 ### 3. Drying room
-Materials
-Stone – Building:
+#### Materials
+##### - Stone – Building:
 Dryer directly integrate in a building. It can vary from old building (like attic) to modern building with waxed concrete. For that part, we need to study alimentary laws to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
 
 
@@ -72,25 +72,25 @@ Dryer directly integrate in a building. It can vary from old building (like atti
 
 
 
-Steel
+##### - Steel
 The same than the precedent category for metal dryer. What kind of metal can be used, some stainless steels for sure, very probably some aluminium, but need more study to identify them precisely. 
 
-Wood:
+##### - Wood:
 
-Plastic
+##### - Plastic
 
-	- Varnish materials
+##### - Varnish materials
 What kind of varnish could be used, what the maximum rate of product could be used.
-Form
+#### Form
 That the very hard part of the state of art, a lot of forms of dryer was experiment since the first realisation 12 000 years before, so we try to make the most complete list of kind of dryer. 
 Maybe there dryers which can be regroup in the same category but to be sure to list all kind of dryer, we separate all little difference.
-- Shell type (indirect solar natural convection)
+##### - Shell type (indirect solar natural convection)
 
 
 
 
 
-- Vertical type with trays
+##### - Vertical type with trays
 
 
 
@@ -100,7 +100,7 @@ Maybe there dryers which can be regroup in the same category but to be sure to l
 
 
 
-- Spread type (solar direct):
+##### - Spread type (solar direct):
 Spread dryer, is a special form of vertical dryer, adapt to solar direct application, but it can be used in different case but that’s not real useful.
 
 
@@ -111,7 +111,7 @@ Spread dryer, is a special form of vertical dryer, adapt to solar direct applica
 
 
 
-- type tunnel
+##### - type tunnel
 That’s more or less the same system than spread type, but for that category we exclude direct solar input. So, all kind of heat source could be considered. 
 
 
@@ -120,7 +120,7 @@ That’s more or less the same system than spread type, but for that category we
 
 
 
-- type rotative cylinder
+##### - type rotative cylinder
 More adapted for cereals, and that kind of products. That kind of dryer is composed of a rotative drying room, which is crossed by an airflow. It provide to dry equitably all products.
 
 
@@ -131,37 +131,37 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 
 
 
-4. Trays
-Fabric
+#### 4. Trays
+##### - Fabric
 
 
 
 
 
 
-Screen
+##### - Screen
 
-- bar
-
-
+##### - bar
 
 
 
 
 
-Pic
 
 
-- Forklift - Mobile trays
+##### - Pic
 
-5. Heat source
+
+##### - Forklift - Mobile trays
+
+### 5. Heat source
 Heat source is one of technical problem of dryer. Between effectiveness and energy independence, there is a real work to search what kind of heat source to what kind of application, to optimize known heat source and to mix some kind of heat source.
-a) Solar (warm and non pollute flow)
+#### a) Solar (warm and non pollute flow)
 Kind of caption
-Direct:
+##### Direct:
 
-Indirect:
-Glassed
+##### Indirect:
+###### Glassed
 Simple or double glazing
 Black absorber, alimentary paint?
 
@@ -172,24 +172,25 @@ Black absorber, alimentary paint?
 
 
 
-Opaque
+###### Opaque
 
 
-Mixed (direct + indirect)
-
-
-
+##### Mixed (direct + indirect)
 
 
 
-Positioning
+
+
+
+##### Other parameters
+###### Positioning
 Azimuth
 Normal of the ground
-Inertial system (conservation of energy)
+###### Inertial system (conservation of energy)
 Stone 
 
 
-a) Electrical (resistor)
+#### b) Electrical (resistor)
 
 
 
@@ -201,12 +202,12 @@ a) Electrical (resistor)
 
 
 
-b) Warm and pollute flow
+#### c) Warm and pollute flow
 That kind of heat source need a heat exchanger to separate pollute flow and drying flow.
-Heat exchanger 
+##### Heat exchanger 
 (source: http://www.uk-exchangers.com/heat-exchange-products/air-to-air-heat-exchangers/)
 Different kind of heat exchanger can be used to transfer energy from 1st fluid to a 2nd fluid. For beginning, we stay only in airflow exchanger.
-Plate type
+###### Plate type
 
 
 
@@ -214,14 +215,14 @@ Plate type
 
 
 
-Thermal wheel type
+###### Thermal wheel type
 
 
 
 
 
 
-Tubular type
+###### Tubular type
 
 
 
@@ -230,15 +231,15 @@ Tubular type
 
 
 
-Heat source
+##### Heat source
 Compost
 Oil combustion
 Wood combustion
 
 
-6. Convection
-a) Kind
-Natural: Work with rising warm airflow
+### 6. Convection
+#### a) Kind
+##### Natural: Work with rising warm airflow
 
 
 
@@ -252,18 +253,18 @@ Natural: Work with rising warm airflow
 
 
 
-Forced
-Electrical
+##### Forced
+###### Electrical
 
-Wind forced
-
-
+###### Wind forced
 
 
-a) Direction
-Perpendicular to the trays
 
-Air repartition (plenum)
+
+#### b) Direction
+##### Perpendicular to the trays
+
+###### Air repartition (plenum)
 		- air flow breaker
 
 
@@ -281,13 +282,13 @@ Air repartition (plenum)
 
 
 
-Parallel to the trays
+##### Parallel to the trays
 
 
 
 
-7. Dehumidifier 
-Opened pipe
+### 7. Dehumidifier 
+#### Opened pipe
 - Air exchange
 
 
@@ -297,7 +298,7 @@ Opened pipe
 
 
 
-Closed pipe
+#### Closed pipe
 - Condensation
 
 
@@ -316,7 +317,7 @@ Closed pipe
 
 
 
-7. Alimentary legislation
+### 7. Alimentary legislation
 Contact alimentaire direct
 claie
 
@@ -325,17 +326,19 @@ Tout les composants d’entrée
 
 
 
-Conductive drying
+## Conductive drying
 
-IR drying
+## IR drying
 
-Microwave drying
+## Microwave drying
 
-Freeze drying
+## Freeze drying
 
-Dryer for solid, metre scale (wood)
+# Dryer for solid, metre scale (wood)
 - Wood solar dryer
 Notice for one : https://pubs.ext.vt.edu/content/dam/pubs_ext_vt_edu/420/420-030/420-030_pdf.pdf
+
+# Dryer for liquid
 
 other state of art :
 https://www.stejarmasiv.ro/uscator-de-lemn-solar/
