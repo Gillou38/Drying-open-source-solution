@@ -10,7 +10,7 @@ Actually we can’t precisely defined size in function of application, it depend
 #####	- Domestic
 That’s kind of dryer could be used by a single man/women or a family for their own food.
 
-![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Size%20-%20Domestic%20dryer.jpg)
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Size%20-%20Domestic%20dryer.jpg){:height="200px"}
 
 #####	- Little production
 That size of dryer, is adapted to little company, people which want to sell product at local market.
