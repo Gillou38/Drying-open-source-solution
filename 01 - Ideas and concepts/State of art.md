@@ -10,7 +10,7 @@ Actually we can’t precisely defined size in function of application, it depend
 #####	- Domestic
 That’s kind of dryer could be used by a single man/women or a family for their own food.
 
-![](.\State of art - Picture\Size - Domestic dryer.jpg =200x)
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Size%20-%20Domestic%20dryer.jpg)
 
 #####	- Little production
 That size of dryer, is adapted to little company, people which want to sell product at local market.
@@ -32,12 +32,7 @@ Disadvantages:
 - not transportable for middle size (size of a big wardrobe) of dryer
 - 
 
-	
-
-
-
-
-
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20compact%20organization.jpg)
 
 #####   - Multi-bloc
 Advantages:
@@ -45,8 +40,7 @@ can be move by part, maybe can be taken apart (démonté)
 Disadvantages: 
 lost energy (temperature and airflow) in pipe
 
-
-
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20multi-bloc.jpg)    ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20All%20in%20drying%20room.jpg)       ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20All%20in%20drying%20room(2).jpg)
 
 #### C. Transportable
 ##### 1) Fixe
