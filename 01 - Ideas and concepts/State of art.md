@@ -65,8 +65,8 @@ Dryer which integrate one or more wheel to transport it.
 
 ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Transportable%20-%20Wheels.jpg)
 
-### 3. Drying room
-#### Materials
+### 2. Drying room
+#### A. Materials
 ##### - Stone – Building:
 Dryer directly integrate in a building. It can vary from old building (like attic) to modern building with waxed concrete. For that part, we need to study alimentary laws to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
 
@@ -87,7 +87,7 @@ The same than the precedent category for metal dryer. What kind of metal can be 
 
 ##### - Varnish materials
 What kind of varnish could be used, what the maximum rate of product could be used.
-#### Form
+#### B. Form
 That the very hard part of the state of art, a lot of forms of dryer was experiment since the first realisation 12 000 years before, so we try to make the most complete list of kind of dryer. 
 Maybe there dryers which can be regroup in the same category but to be sure to list all kind of dryer, we separate all little difference.
 ##### - Shell type (indirect solar natural convection)
@@ -137,7 +137,7 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 
 
 
-#### 4. Trays
+#### 3. Trays
 ##### - Fabric
 
 
@@ -160,9 +160,9 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 
 ##### - Forklift - Mobile trays
 
-### 5. Heat source
+### 4. Heat source
 Heat source is one of technical problem of dryer. Between effectiveness and energy independence, there is a real work to search what kind of heat source to what kind of application, to optimize known heat source and to mix some kind of heat source.
-#### a) Solar (warm and non pollute flow)
+#### A. Solar (warm and non pollute flow)
 Kind of caption
 ##### Direct:
 
@@ -196,7 +196,7 @@ Normal of the ground
 Stone 
 
 
-#### b) Electrical (resistor)
+#### B. Electrical (resistor)
 
 
 
@@ -208,7 +208,7 @@ Stone
 
 
 
-#### c) Warm and pollute flow
+#### C. Warm and pollute flow
 That kind of heat source need a heat exchanger to separate pollute flow and drying flow.
 ##### Heat exchanger 
 (source: http://www.uk-exchangers.com/heat-exchange-products/air-to-air-heat-exchangers/)
@@ -243,8 +243,8 @@ Oil combustion
 Wood combustion
 
 
-### 6. Convection
-#### a) Kind
+### 5. Convection
+#### A. Kind
 ##### Natural: Work with rising warm airflow
 
 
@@ -267,7 +267,7 @@ Wood combustion
 
 
 
-#### b) Direction
+#### B. Direction
 ##### Perpendicular to the trays
 
 ###### Air repartition (plenum)
@@ -293,8 +293,8 @@ Wood combustion
 
 
 
-### 7. Dehumidifier 
-#### Opened pipe
+### 6. Dehumidifier 
+#### A. Opened pipe
 - Air exchange
 
 
@@ -304,7 +304,7 @@ Wood combustion
 
 
 
-#### Closed pipe
+#### B. Closed pipe
 - Condensation
 
 
@@ -323,7 +323,7 @@ Wood combustion
 
 
 
-### 7. Alimentary legislation
+### 6. Alimentary legislation
 Contact alimentaire direct
 claie
 
