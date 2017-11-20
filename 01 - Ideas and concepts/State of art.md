@@ -1,4 +1,4 @@
-<p> style="text-align:center"; State of art </p>
+# State of art
 
 For basics category, we inspire by *“Les séchoirs solaires – Théorie et pratique”* de Michel Daguenet, because he made a huge work about drying science, and more applied to solar drying.
 # Dryer for solid, centimetre scale
@@ -8,17 +8,17 @@ That document try to make an inventory of all kind of dryer, and technology whic
 There is a lot of different kind of dryer, from the little dryer for domestic application to the huge dryer for industrial application.
 #### A. Size
 Actually we can’t precisely defined size in function of application, it depends of the food goods.
-#####	- Domestic
+##### - Domestic
 That’s kind of dryer could be used by a single man/women or a family for their own food.
 
 ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Size%20-%20Domestic%20dryer.jpg)
 
-#####	- Little production
+##### - Little production
 That size of dryer, is adapted to little company, people which want to sell product at local market.
 
 ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Size%20-%20Little%20production%20dryer.jpg)
 
-#####	- Industrial production
+##### - Industrial production
 Dryer adapted for industrial production, sell product in large region.
 
 ![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Size%20-%20Industrial%20production%20dryer.jpg)
@@ -70,19 +70,20 @@ Dryer which integrate one or more wheel to transport it.
 ##### - Stone – Building:
 Dryer directly integrate in a building. It can vary from old building (like attic) to modern building with waxed concrete. For that part, we need to study alimentary laws to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
 
-
-
-
-
-
-
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20Stone%20building.jpg)
 
 ##### - Steel
 The same than the precedent category for metal dryer. What kind of metal can be used, some stainless steels for sure, very probably some aluminium, but need more study to identify them precisely. 
 
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20steel%20-%20stainless.jpg)
+
 ##### - Wood:
 
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20wood.jpg)
+
 ##### - Plastic
+
+![](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20plastic.jpg)
 
 ##### - Varnish materials
 What kind of varnish could be used, what the maximum rate of product could be used.
