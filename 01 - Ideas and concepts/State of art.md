@@ -152,11 +152,11 @@ Black absorber, alimentary paint?
 
 - Opaque
 
-![Solar indirect opaque](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed.jpg)    ![Solar indirect opaque(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed(2).jpg)    ![Solar indirect opaque(3)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed(3).jpg)
+![Solar indirect opaque](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque.jpg)    ![Solar indirect opaque(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(2).jpg)    ![Solar indirect opaque(3)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(3).jpg)
 
 ###### Mixed (direct + indirect)
 
-![Solar indirect opaque(3)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20mixed.jpg)
+![Solar mixed)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20mixed.jpg)
 
 ##### Other parameters
 ###### Positioning
