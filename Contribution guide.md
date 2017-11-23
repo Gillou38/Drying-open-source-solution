@@ -12,20 +12,33 @@ Don’t hesitate to participate in one or more of the following activities:
     so on)
 
 2.  [Idea
-    sourcing](https://github.com/Gillou38/Drying-open-source-solution/tree/master/01%20-%20Ideas%20and%20concepts):
-    [Propose ideas to
-    develop](https://github.com/Gillou38/Drying-open-source-solution/issues) -
-    Document existing designs - [Organised state of
-    art](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.odt)
+    sourcing](https://github.com/Gillou38/Drying-open-source-solution/tree/master/01%20-%20Ideas%20and%20concepts)
+
+    1.  [Propose ideas to
+        develop](https://github.com/Gillou38/Drying-open-source-solution/issues)
+
+    2.  Document existing designs
+
+    3.  [Organised state of
+        art](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.odt)
 
 3.  [Development](https://github.com/Gillou38/Drying-open-source-solution/tree/master/02%20-%20Developing):
     [Formalisation of technical
     problems](https://github.com/Gillou38/Drying-open-source-solution/tree/master/02%20-%20Developing/01%20-%20Functional%20analysis)
-    (Functional analysis) - Propose and develop technical solution (FAST -
-    Function Analysis System Technique) - Organization of technical solution in
-    the process (SADT - Structured Analysis and Design Technic) - Choice of
-    technical solutions - Design technical solution (CAD) - Model the product to
-    create physical model - Writing documentation to fabricate the product
+    (Functional analysis)
+
+    1.  Propose and develop technical solution (FAST - Function Analysis System
+        Technique)
+
+    2.  Organization of technical solution in the process (SADT - Structured
+        Analysis and Design Technic)
+
+    3.  Choice of technical solutions
+
+    4.  Design technical solution (CAD)
+
+    5.  Model the product to create physical model - Writing documentation to
+        fabricate the product
 
 4.  Protyping (test the design, share and analyse test results)
 
@@ -40,11 +53,11 @@ How to propose an idea and reporting a creation
     detailled it, modify it ...
 
 -   Report a dryer: You can report dryers make with a new .odt file (1 file by
-    dryer) Organise different technology of dryer's components
+    dryer)
 
--   On [state of
+-   Organise different technology of dryer's components. On [state of
     art](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.odt),
-    we try to organized different components usable in a dryer, there advantages
+    we try to organise different components usable in a dryer, there advantages
     and there disadvantages.
 
 How to participate in the development
