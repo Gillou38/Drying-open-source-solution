@@ -246,10 +246,10 @@ Wood combustion
 ### 6. Dehumidifier 
 #### A. Opened pipe
 - Air exchange
-
-
-
-
+	- Complete renewal of air
+	
+	
+	- Partial renewal of air
 
 
 
@@ -282,7 +282,6 @@ Tout les composants d’entrée
 
 
 
-## Conductive drying
 
 ## IR drying
 
@@ -301,35 +300,8 @@ https://www.builditsolar.com/Projects/WoodDrying/wood_kiln.htm
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Dryer for pumpable product (liquid, dought …)
+
+## Conductive drying
 
 # Dryer for powedered product (crumbled vegetables, pulp, cereals ... )
