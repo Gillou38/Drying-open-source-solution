@@ -50,17 +50,17 @@ Disadvantages:
 ##### 1) Fixed
 We don’t imaged that kind of dryer because it could defined by a very large panel of dryer. So we consider in that category all dryer which can’t be transport by 2 or less humans.
 ##### 2) Transportable
-######   - Portable
+#####   - Portable
 Defined by little dryer, which integrate handle or part which can be considered like handle, and which can be transport by maximum 2 peoples.
 
 ![Portable](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Transportable%20-%20Portable.jpg)
 
-######   - Pliable
+#####   - Pliable
 The same restriction than a “portable” dryer, which pliable part to make an easy to transport dryer when it necessary.
 
 ![Pliable](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Transportable%20-%20Pliable.png)
 
-######   - Wheel
+#####   - Wheel
 Dryer which integrate one or more wheel to transport it.
 
 ![2 Wheels](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Transportable%20-%20Wheels.jpg)
@@ -138,11 +138,11 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 Heat source is one of technical problem of dryer. Between effectiveness and energy independence, there is a real work to search what kind of heat source to what kind of application, to optimize known heat source and to mix some kind of heat source.
 #### A. Solar (warm and non pollute flow)
 ##### Kind of caption
-###### Direct:
+##### - Direct:
 
 ![Solar direct](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20direct.jpg)
 
-###### Indirect:
+##### - Indirect:
 - Glassed
 Simple or double glazing
 Black absorber, alimentary paint?
@@ -154,15 +154,15 @@ Black absorber, alimentary paint?
 
 ![Solar indirect opaque](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque.jpg)    ![Solar indirect opaque(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(2).jpg)    ![Solar indirect opaque(3)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(3).jpg)
 
-###### Mixed (direct + indirect)
+##### - Mixed (direct + indirect)
 
 ![Solar mixed)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20mixed.jpg)
 
 ##### Other parameters
-###### Positioning
+##### - Positioning
 Azimuth
 Normal of the ground
-###### Inertial system (conservation of energy)
+##### - Inertial system (conservation of energy)
 - Stone 
 ![Inertial system)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20inertial%20system.jpg)
 
@@ -175,15 +175,15 @@ That kind of heat source need a heat exchanger to separate pollute flow and dryi
 ##### Heat exchanger 
 (source: http://www.uk-exchangers.com/heat-exchange-products/air-to-air-heat-exchangers/)
 Different kind of heat exchanger can be used to transfer energy from 1st fluid to a 2nd fluid. For beginning, we stay only in airflow exchanger.
-###### Plate type
+##### - Plate type
 
 ![Plate type)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20exchanger%20-%20plate%20type.jpg)
 
-###### Thermal wheel type
+##### - Thermal wheel type
 
 ![Thermal wheel type)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20exchanger%20-%20Thermal%20wheel%20type.jpg)
 
-###### Tubular type
+##### - Tubular type
 
 ![Tubular type)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20exchanger%20-%20tubular%20type.jpg)
 
@@ -200,11 +200,11 @@ Different kind of heat exchanger can be used to transfer energy from 1st fluid t
 ![Natural convection](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20natural.jpg)
 
 ##### Forced
-###### Electrical
+##### - Electrical
 
 ![Forced convection - electrical](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20forced%20-%20electrical.jpg)
 
-###### Wind forced
+##### - Wind forced
 
 ![Forced convection - wind](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20forced%20-%20wind.jpg)
 
@@ -213,7 +213,7 @@ Different kind of heat exchanger can be used to transfer energy from 1st fluid t
 
 ![Convection perpendicular to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20perpendicular%20to%20the%20trays.jpg)
 
-###### Air repartition (plenum)
+##### - Air repartition (plenum)
 - Air flow breaker
 
 ![Air flow breaker](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20air%20flow%20breaker.jpg)
