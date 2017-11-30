@@ -160,8 +160,8 @@ Black absorber, alimentary paint?
 
 ##### Other parameters
 ##### - Positioning
-Azimuth
-Normal of the ground
+- Azimuth
+- Normal of the ground
 ##### - Inertial system (conservation of energy)
 - Stone 
 ![Inertial system)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20inertial%20system.jpg)
