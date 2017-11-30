@@ -224,38 +224,26 @@ Different kind of heat exchanger can be used to transfer energy from 1st fluid t
 
 ##### Parallel to the trays
 
-
-
+![Parallel to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20parallele%20to%20the%20trays.jpg) ![Parallel to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20parallele%20to%20the%20trays%20(2).jpg)   ![Parallel to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20parallele%20to%20the%20trays%20(3).jpg)   ![Parallel to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20parallele%20to%20the%20trays%20(4).jpg)
 
 ### 6. Dehumidifier 
-#### A. Opened pipe
-- Air exchange
-	- Complete renewal of air
+#### A. Opened pipe - Air exchange
+- Complete renewal of air
+
+![complete renewal of air](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Deshumidifier%20-%20Air%20exchange.jpg)
 	
-	
-	- Partial renewal of air
-
-
-
+- Partial renewal of air
+Good choice of pipes' diameter (Benaouda and al.)
+![Partial renewal of air](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Deshumidifier%20-%20Air%20exchange%20(2).JPG)
 
 #### B. Closed pipe
 - Condensation
 
-
-
-
-
-
+![Condensation](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Deshumidifier%20-%20condensation.jpg)
 
 - Absorption
 
-
-
-
-
-
-
-
+![Absorption](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Deshumidifier%20-%20Absorbation.jpg)
 
 ### 6. Alimentary legislation
 Contact alimentaire direct
@@ -281,8 +269,8 @@ other state of art :
 https://www.stejarmasiv.ro/uscator-de-lemn-solar/
 https://www.builditsolar.com/Projects/WoodDrying/wood_kiln.htm
 
-
-
+![Wood dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Deshumidifier%20-%20Absorbation.jpg)
+![Wood dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Wood%20dryer%20(2).jpg)
 
 # Dryer for pumpable product (liquid, dought …)
 
