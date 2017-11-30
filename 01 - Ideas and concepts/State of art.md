@@ -269,7 +269,7 @@ other state of art :
 https://www.stejarmasiv.ro/uscator-de-lemn-solar/
 https://www.builditsolar.com/Projects/WoodDrying/wood_kiln.htm
 
-![Wood dryer]https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Wood%20dryer.jpg)
+![Wood dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Wood%20dryer.jpg)
 ![Wood dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Wood%20dryer%20(2).jpg)
 
 # Dryer for pumpable product (liquid, dought …)
