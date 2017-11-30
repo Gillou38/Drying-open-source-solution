@@ -188,55 +188,39 @@ Different kind of heat exchanger can be used to transfer energy from 1st fluid t
 ![Tubular type)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20exchanger%20-%20tubular%20type.jpg)
 
 ##### Heat source
-Compost
-Oil combustion
-Wood combustion
+- Compost
+- Oil combustion
+- Wood combustion
 
 
 ### 5. Convection
 #### A. Kind
 ##### Natural: Work with rising warm airflow
 
-
-
-
-
-
-
-
-
-
-
-
+![Natural convection](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20natural.jpg)
 
 ##### Forced
 ###### Electrical
 
+![Forced convection - electrical](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20forced%20-%20electrical.jpg)
+
 ###### Wind forced
 
-
-
+![Forced convection - wind](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20forced%20-%20wind.jpg)
 
 #### B. Direction
 ##### Perpendicular to the trays
 
+![Convection perpendicular to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20perpendicular%20to%20the%20trays.jpg)
+
 ###### Air repartition (plenum)
-		- air flow breaker
+- Air flow breaker
 
+![Air flow breaker](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20air%20flow%20breaker.jpg)
 
-
-
-
-
-		- room
+- Room distributor
 	
-
-
-
-
-
-
-
+![Room distributor](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20air%20room%20repartition.jpg)
 
 ##### Parallel to the trays
 
