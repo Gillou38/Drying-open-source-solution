@@ -38,6 +38,7 @@ freedoms of open source:
 -   Freedom to make: the right to use the product definition documents to
     manufacture the piece of hardware;
 
+
 -   Freedom to distribute: the right to share or sell the product definition
     documents as well as the physical products fabricated according to these
     documents.
@@ -47,7 +48,9 @@ license](http://www.gnu.de/documents/gpl.en.html). Designs are licensed under a
 [CERN Open Hardware Licence
 V1.2](https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2).
 
-### Where we want to go?
+
+### History
+That technic begins with the beginning of the agriculture, around 12 000 B. C. by inhabitants of the modern Middle East and Asia region. In beginning drying was realize by evaporation (air drying, sun drying ...). With time and technical evolution, there's actually a lot of different technic to dry food, from very low tech solution to high tech solution (we exclude freezing drying, because it's a very different process).
 
 In drying, there is no “one-size-fits-all”-solution. Each farmer may need a very
 specific solution fitting their specific requirements regarding size and
