@@ -102,4 +102,6 @@ The tools we use
 
 -   Cloud/versioning: GitHub
 
--   Documentation: Libre office
+-   Documentation: [Libre office](http://www.libreoffice.org/)
+
+-   CAD: [Free cad](https://freecadweb.org/)
