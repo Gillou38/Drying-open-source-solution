@@ -9,16 +9,16 @@ On that document we try to explain how have enough informations for the report.
 That way isn’t the only way to have enough information, the more important is the 3rd part, semi-structured interview.
 We try to make it for industrial products and DIY products so, maybe the is some answer specific for each category.
 
-# I) Know different kinds of dryer
+## I) Know different kinds of dryer
 To present a dryer is be good to know what kind of dryer already existing, for that you can go on internet or on our [state of art](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md), we try to make a good data base about dryers, and using technologies.
 
-# II) Useful materials
+## II) Useful materials
 - camera
 - tape measure
 - audio recorder
 - takes notes and drawings
 
-# III) Semi-structured interview
+## III) Semi-structured interview
 First, ask if you can record the interview if you want to do it.
 
 ### Principle
