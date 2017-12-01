@@ -233,6 +233,7 @@ Different kind of heat exchanger can be used to transfer energy from 1st fluid t
 ![complete renewal of air](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Deshumidifier%20-%20Air%20exchange.jpg)
 	
 - Partial renewal of air
+
 Good choice of pipes' diameter (Benaouda and al.)
 ![Partial renewal of air](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Deshumidifier%20-%20Air%20exchange%20(2).JPG)
 
