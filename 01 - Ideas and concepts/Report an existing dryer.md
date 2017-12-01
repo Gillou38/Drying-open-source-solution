@@ -1,6 +1,6 @@
 How to report an existing dryer 
 -------------------------------------
-
+ 
 *Inspired from “Méthodologie TRIP” by l’Atelier Paysan*
 
 We try to summarise information about dryers, so to the technical approach, the 1st thing to do is to report lot of different kinds of existing dryers.
