@@ -1,4 +1,4 @@
-How to report an existing dryer 
+# How to report an existing dryer 
 -------------------------------------
  
 *Inspired from “Méthodologie TRIP” by l’Atelier Paysan*
