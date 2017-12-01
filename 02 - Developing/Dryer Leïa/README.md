@@ -23,12 +23,12 @@ Derived requirements
 Overview
 --------
 
-![](/img/screenshot_rendering_STL.PNG)
+![screenshot_rendering_STL](https://github.com/jbon/Drying-open-source-solution/blob/master/02%20-%20Developing/Dryer%20Le%C3%AFa/img/screenshot_rendering_STL.PNG)
 
 Parameters
 ----------
 
-| Parameter                | Value |
+| Parameter                | Value (mm) |
 |--------------------------|-------|
 | drawer_height            | 1500  |
 | drawer_depth             | 8000  |
