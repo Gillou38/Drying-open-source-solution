@@ -34,24 +34,24 @@ Materials
 
 -   Drawer bottom: cheese maturing canvas
 
-Parameters
-----------
+Drawers
+-------
 
-| Parameter                | Value (mm) |
-|--------------------------|------------|
-| drawer_height            | 1500       |
-| drawer_depth             | 8000       |
-| drawer_breadth           | 6000       |
-| drawer_materialThickness | 20         |
-| drawer_inner_breadth     | 5960       |
-| drawer_inner_depth       | 7960       |
-| drawer_inner_height      | 1480       |
-| drawer_interspace_v      | 50         |
-| drawer_interspace_h      | 10         |
-| L_materialThickness      | 5          |
-| L_wingLenght             | 50         |
-| panel_height             | 10850      |
-| panel_materialThickness  | 20         |
+How to join OSB panels to make a drawer?
+
+-   metal plates (more parts, expensive)
+
+-   glue (not allowed because alimentary application)
+
+-   CNC joinery (requires CNC cutter)
+
+-   woodworking joints e.g. dovetail (does not work with OSB)
+
+-   direct screwing (does not work with OSB)
+
+-   dowelled joints (works with OSB?)
+
+-   supporting beams (require space)
 
 Open To-do’s
 ------------
@@ -59,7 +59,3 @@ Open To-do’s
 -   supporting structure for the panels
 
 -   feet
-
--   How to join OSB panels: supporting beams (require space) butt joints (more
-    cut processes), metal plates (eventually more expensive), glue (not allowed
-    because alimentary application)
