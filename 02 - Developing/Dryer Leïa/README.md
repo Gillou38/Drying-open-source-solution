@@ -43,10 +43,14 @@ Supporting structure
   
 - No structure on the front side to tread drawers
 
+- Fix together with angle connector
+
 Drawers
 -------
 
 How to join OSB panels to make a drawer?
+
+-   fix it on a light pin structure
 
 -   metal plates (more parts, expensive)
 
