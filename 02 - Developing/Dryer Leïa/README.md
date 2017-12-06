@@ -34,6 +34,15 @@ Materials
 
 -   Drawer bottom: cheese maturing canvas
 
+Supporting structure
+---------
+
+- Section: 
+  - for the most important structure: 40x40 mm
+  - for the others: 20x20 mm
+  
+- No structure on the front side to tread drawers
+
 Drawers
 -------
 
