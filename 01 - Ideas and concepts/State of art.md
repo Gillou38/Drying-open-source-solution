@@ -2,7 +2,7 @@
 
 For basics category, we inspire by *“Les séchoirs solaires – Théorie et pratique”* de Michel Daguenet, because he made a huge work about drying science, and more applied to solar drying.
 # Dryer for solid, centimetre scale
-That document try to make an inventory of all kind of dryer, and technology which could be used to dry, from the convective drying to the freeze drying, and defined each technology (electric, solar ...) used in each kind of dryers. For the 2nd level category (convective, …) we choose to class them by kind of technology. Maybe, we can found a best classification.
+That document try to make an inventory of all kind of dryer, and technology which could be used to dry, from the convective drying to the freeze drying, and defined each technology (electric, solar ...) used in each kind of dryers. For the 2nd level of category (convective, …) we choose to class them by kind of technology. Maybe, we can found a best classification.
 ## Convective drying
 ### 1. Global parameters
 There is a lot of different kind of dryer, from the little dryer for domestic application to the huge dryer for industrial application.
@@ -67,21 +67,68 @@ Dryer which integrate one or more wheel to transport it.
 
 ### 2. Drying room
 #### A. Materials
+We don't find European restriction for indirect contact, like it appear with a dryer. in that case, food goods can stay in the same room during few days with the same air, so we consider indirect contact like direct contact. Maybe restriction could be simplified if the dryer work with renewable air.
+For direct alimentary contact, it need to respect [European regulation](http://www.europarl.europa.eu/RegData/etudes/STUD/2016/581411/EPRS_STU%282016%29581411_EN.pdf) which identify inertia of the material. It depend of:
+- materials composition
+- migration's treshold in food goods, of substance which composed materials
+- lack of deterioration of organoleptic properties (taste, smell, sight and touch) by materials
+
+There is specific criteria for:
+- materials which could be treat (ionization, recycling ...) 
+- coloring materials
+- cleaning product using on material which have contacte with good foods
+
 ##### - Stone – Building:
 Dryer directly integrate in a building. It can vary from old building (like attic) to modern building with waxed concrete. For that part, we need to study alimentary laws to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
 
 ![Traditional nuts dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20Stone%20building.jpg)
 
 ##### - Steel
-The same than the precedent category for metal dryer. What kind of metal can be used, some stainless steels for sure, very probably some aluminium, but need more study to identify them precisely. 
+Inertial criteria to respect are:
+- chemical composition ([European laws in french](http://www.contactalimentaire.com/fileadmin/ImageFichier_Archive/contact_alimentaire/Fichiers_Documents/Brochure_JO/Note_2004_64/Fiches_DGCCRF_Revisees/DGCCRF-Fiches-metaux-alliages.pdf)
+- limit of undesirable elements:
+	- Lead (Plomb): < 0.05 %
+	- Cadmium: < 0.01 %
+	- Arsenic: < 0.03 %
+	- ...
+- specific migration of metalic element :
+	- Nickel < 0.5 mg/kg of food goods
+	- Chrome < 5 mg/kg of food goods
+	- Zinc < 10 mg/kg of food goods
+	- Lead < 4 mg/kg of food goods
+	- cadmium < 0.3 mg/kg of food goods
+	-...
+
+*[French source](http://www.contactalimentaire.com/index.php?id=204&L=1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C%5C%5C%5C%5C%27%60%28%5B%7B%5E%7E)*
 
 ![Stainless dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20steel%20-%20stainless.jpg)
 
 ##### - Wood:
+For European regulation, 2 categories of criteria could influence the choice :
+- wood variety:
+	- accept all food goods: oak, sweet chestnut, ash, hornbeam, black locust, pine, spruce, douglas, maritime pine, scotch pine, poplar, beech, plane, aspen, alder, olive, birch
+	- only for solid food goods: walnut, elm, 
+- essence de bois: 
+	- pour tout les aliments : chêne, châtaignier, frêne, charme, robinier, sapin, épicéa, douglas, pin maritime, pin sylvestre, peuplier, hêtre, platane, tremble, aulne, olivier, bouleau
+	- pour les solide alimentaires : hêtre, noyer, orme, peuplier
+- wood treatment: 
+	- no pentachlorophenol treatment (< 0,1 mg/kg of wood)
+	- 
+- traitement du bois : 
+	- Absence de traitement au pentachlorophénol (< 0,1 mg/kg de bois)
+	- Produits de traitement autorisés pour les emballages de fruits et légumes
+	
+*[french source](http://www.contactalimentaire.com/index.php?id=382)*
 
 ![Wood dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20wood.jpg)
 
 ##### - Plastic
+Inertial criteria to respect is decompose of 3 categories:
+- global restriction about substances
+- global limit of migration: < 10 mg/dm² (for material which used to babies good foods (< 3years), the limit is 60 mg/dm²)
+- specific limit of migration
+
+*[French source](http://www.contactalimentaire.com/index.php?id=250), and [other](http://www.contactalimentaire.com/fileadmin/ImageFichier_Archive/contact_alimentaire/Fichiers_Documents/autres/Fiches-materiaux-organiques-matieres-synthetiques.pdf)*
 
 ![Plastic dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20plastic.jpg)
 
