@@ -20,7 +20,7 @@ Don’t hesitate to participate in one or more of the following activities:
     2.  Document existing designs
 
     3.  [Organised state of
-        art](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.odt)
+        art](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md)
 
 3.  [Development](https://github.com/Gillou38/Drying-open-source-solution/tree/master/02%20-%20Developing):
     [Formalisation of technical
@@ -102,4 +102,6 @@ The tools we use
 
 -   Cloud/versioning: GitHub
 
--   Documentation: Libre office
+-   Documentation: [Libre office](http://www.libreoffice.org/)
+
+-   CAD: [Free cad](https://freecadweb.org/)

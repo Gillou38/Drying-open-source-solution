@@ -48,17 +48,6 @@ license](http://www.gnu.de/documents/gpl.en.html). Designs are licensed under a
 [CERN Open Hardware Licence
 V1.2](https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2).
 
-
-### History
-That technic begins with the beginning of the agriculture, around 12 000 B. C. by inhabitants of the modern Middle East and Asia region. In beginning drying was realize by evaporation (air drying, sun drying ...). With time and technical evolution, there's actually a lot of different technic to dry food, from very low tech solution to high tech solution (we exclude freezing drying, because it's a very different process).
-
-In drying, there is no “one-size-fits-all”-solution. Each farmer may need a very
-specific solution fitting their specific requirements regarding size and
-temperature range for example. The objective of the project is therefore to
-develop a scalable and modular dryer which can be adapted to each specific
-situation. Doing so, we want also to provide documentation about drying which
-can be easily accessible to farmers.
-
 ### How to contribute
 
 Every bit of help is more than welcomed. If you want to support the project,
@@ -75,6 +64,16 @@ and enables long warehousing duration. It is a physicochemical reaction, whose
 aim is to extract water out of something. Professional alimentary applications
 requires dealing with conflicting constraints of high processing speed and
 keeping control on the reaction in order to conserve valuable nutriments.
+
+### History
+That technic begins with the beginning of the agriculture, around 12 000 B. C. by inhabitants of the modern Middle East and Asia region. In beginning drying was realize by evaporation (air drying, sun drying ...). With time and technical evolution, there's actually a lot of different technic to dry food, from very low tech solution to high tech solution (we exclude freezing drying, because it's a very different process).
+
+In drying, there is no “one-size-fits-all”-solution. Each farmer may need a very
+specific solution fitting their specific requirements regarding size and
+temperature range for example. The objective of the project is therefore to
+develop a scalable and modular dryer which can be adapted to each specific
+situation. Doing so, we want also to provide documentation about drying which
+can be easily accessible to farmers.
 
 ### Composition of a dryer
 
@@ -109,8 +108,8 @@ Basic dryers tend to combine functions such as drying and heating into one
 component and to use wind to create ventilation. More advanced solutions use one
 component for each function.
 
-### Our design rationale
-
+Our design rationale
+--------------------
 We intend to use low tech and low energy consumption solutions whenever it is
 possible. The current development focuses on a solar solution with electrical
 assistance and regulation which enable professional users to process food
