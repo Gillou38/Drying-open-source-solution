@@ -32,9 +32,9 @@ Materials
 Drawers
 -------
 
-![Drawer parameter sketch](/Drawings/Parameters-drawer.png)
+![Drawer parameter sketch](https://github.com/jbon/Drying-open-source-solution/blob/master/02%20-%20Developing/Dryer%20Le%C3%AFa/Drawings/Parameters-drawer.png)
 
 Structure
 ---------
 
-![Structure parameter sketch](/Drawings/Parameters-structure.png)
+![Structure parameter sketch](https://github.com/jbon/Drying-open-source-solution/blob/master/02%20-%20Developing/Dryer%20Le%C3%AFa/Drawings/Parameters-structure.png)
