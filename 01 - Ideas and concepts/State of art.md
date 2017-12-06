@@ -11,6 +11,7 @@ That part relate to drying of:
 - cheese
 - mushroom
 - more ?
+
 For all that kind of food goods the process is almost the same, it use the same components (exept for cheese which doesn't need heating), only parameters change (temperature, time, relative humidity ...)
 
 We try to make an inventory of all kind of dryer, and technology which could be used to dry, from the convective drying to the freeze drying, and defined each technology (electric, solar ...) used in each kind of dryers. For the 2nd level of category (convective, …) we choose to class them by kind of technology. Maybe, we can found a best classification.
