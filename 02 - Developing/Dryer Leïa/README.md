@@ -20,11 +20,6 @@ Derived requirements
 
 -   21 drawers of about 0,48m² (0,6\*0,8)
 
-Overview
---------
-
-![screenshot_rendering_STL](https://github.com/jbon/Drying-open-source-solution/blob/master/02%20-%20Developing/Dryer%20Le%C3%AFa/img/screenshot_rendering_STL.PNG)
-
 Materials
 ---------
 
@@ -37,25 +32,9 @@ Materials
 Drawers
 -------
 
-How to join OSB panels to make a drawer?
+![Drawer parameter sketch](/Drawings/Parameters-drawer.png)
 
--   metal plates (more parts, expensive)
+Structure
+---------
 
--   glue (not allowed because alimentary application)
-
--   CNC joinery (requires CNC cutter)
-
--   woodworking joints e.g. dovetail (does not work with OSB)
-
--   direct screwing (does not work with OSB)
-
--   dowelled joints (works with OSB?)
-
--   supporting beams (require space)
-
-Open To-do’s
-------------
-
--   supporting structure for the panels
-
--   feet
+![Structure parameter sketch](/Drawings/Parameters-structure.png)
