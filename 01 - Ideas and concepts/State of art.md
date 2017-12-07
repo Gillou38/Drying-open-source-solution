@@ -181,6 +181,10 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 
 ![Silo type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20silo%20type.JPG)
 
+#### - Screw dryer type
+
+![screw dryer type](http://www.amb-rousset.com/wp-content/uploads/1702/12/SRN-AUD-L04-012223-vue-de-cote.jpg)
+
 #### 3. Trays or equivalent system
 Trays is the most using system to display product for artisanal or industrial application (exept for industrial drying of cereals), but other systems could be used in different applications.
 
@@ -193,11 +197,13 @@ Maybe the best fabric solution is mosquito net (~7 €/linear meter) because, ai
 
 ##### - Screen
 Different kind of screen could be used, for example:
-- fine grille: it isn't an alimentary material, verify regulation before to use something
+- fine grillage: it isn't an alimentary material, verify regulation before to use something
+- alimentary grille: generally using for oven
 - ripening mat for cheese: that's a good solution because, it make for alimentary application so, there isn't problem with respect of regulation. Exist in different materials: plastic, inox
 
 ![Fromagex - ripening mat](https://www.fromagex.com/can/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_20198_1_1835_262_10588.jpg)
-![Fine grille](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20screen.jpg)
+![Fine grillage](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20screen.jpg)
+![alimentary grille](http://www.materiel-cuisson-frigorifique.com/back/images_article/201207190116714.jpg)
 
 ##### - Bar
 That kind of display is more adapt to long product or to plant bunch.
