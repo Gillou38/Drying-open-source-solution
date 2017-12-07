@@ -177,6 +177,10 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 
 ![Rotative cylinder type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20rotative%20cylinder%20type.jpg)     ![Rotative cylinder type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20rotative%20cylinder%20type(2).jpg)
 
+#### - Silo type
+
+![Silo type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20silo%20type.JPG)
+
 #### 3. Trays or equivalent system
 Trays is the most using system to display product for artisanal or industrial application (exept for industrial drying of cereals), but other systems could be used in different applications.
 
