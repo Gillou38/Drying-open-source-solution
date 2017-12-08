@@ -145,7 +145,7 @@ Inertial criteria to respect is decompose of 3 categories:
 - specific limit of migration
 
 *[French source](http://www.contactalimentaire.com/index.php?id=250), and [other](http://www.contactalimentaire.com/fileadmin/ImageFichier_Archive/contact_alimentaire/Fichiers_Documents/autres/Fiches-materiaux-organiques-matieres-synthetiques.pdf)*
-
+*[epoxy document](http://www.contactalimentaire.com/fileadmin/ImageFichier_Archive/contact_alimentaire/Fichiers_Documents/Reglements_anglais/reg2005-1895ang.pdf)*
 ![Plastic dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20plastic.jpg)
 
 #### - Varnish materials
