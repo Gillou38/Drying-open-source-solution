@@ -198,7 +198,7 @@ Maybe the best fabric solution is mosquito net (~7 €/linear meter) because, ai
 ##### - Screen
 Different kind of screen could be used, for example:
 - fine grillage: it isn't an alimentary material, verify regulation before to use something
-- alimentary grille: generally using for oven
+- alimentary grille: generally using for oven or aging rack
 - ripening mat for cheese: that's a good solution because, it make for alimentary application so, there isn't problem with respect of regulation. Exist in different materials: plastic, inox
 
 ![Fromagex - ripening mat](https://www.fromagex.com/can/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_20198_1_1835_262_10588.jpg)
