@@ -272,14 +272,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-11.555944"
-     inkscape:cy="658.24564"
+     inkscape:zoom="0.7706716"
+     inkscape:cx="392.70308"
+     inkscape:cy="623.57534"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -382,9 +382,10 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 307.5,182.00506 307.14286,25.219346"
+       d="m 306.85897,122.176 0.10288,-85.553092"
        id="path5701"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mstart);marker-start:url(#marker5711)"
        d="M 182.83761,35.643667 306.5813,67.968549"
@@ -432,15 +433,16 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 214.15234,414.95595 -89.52477,52.90673"
+       d="m 220.75611,429.34274 -89.52477,52.90673"
        id="path7143"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7153);marker-start:url(#marker7235)"
-       d="m 135.35714,460.93363 13.21429,83.21429"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker7235);marker-end:url(#marker7153)"
+       d="m 138.18733,477.91476 10.3841,66.23316"
        id="path7145"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <g
        transform="matrix(1.455808,0,0,1.455808,-110.75014,-22.464067)"
        id="g7347">
@@ -508,7 +510,7 @@
            sodipodi:role="line">C</tspan></text>
     </g>
     <g
-       transform="matrix(1.455808,0,0,1.455808,-208.68934,431.09199)"
+       transform="matrix(1.455808,0,0,1.455808,-207.0384,437.22407)"
        id="g7347-9">
       <rect
          y="40.441891"
