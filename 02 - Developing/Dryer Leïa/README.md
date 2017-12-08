@@ -34,7 +34,11 @@ Drawers
 
 ![Drawer parameter sketch](https://github.com/jbon/Drying-open-source-solution/blob/master/02%20-%20Developing/Dryer%20Le%C3%AFa/Drawings/Parameters-drawer.png)
 
-Structure
+Supporting structure
 ---------
 
 ![Structure parameter sketch](https://github.com/jbon/Drying-open-source-solution/blob/master/02%20-%20Developing/Dryer%20Le%C3%AFa/Drawings/Parameters-structure.png)
+
+
+Layout structure
+---------
