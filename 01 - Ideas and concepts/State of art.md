@@ -84,6 +84,9 @@ Dryer which integrate one or more wheel to transport it.
 ### 2. Drying room
 #### A. Materials
 We don't find European restriction for indirect contact, like it appear with a dryer. in that case, food goods can stay in the same room during few days with the same air, so we consider indirect contact like direct contact. Maybe restriction could be simplified if the dryer work with renewable air.
+
+European laws indicate regulation for direct contact, so there isn't direct contact with nuts, they don't need food grade materials.(verify that information)
+
 For direct alimentary contact, it need to respect [European regulation](http://www.europarl.europa.eu/RegData/etudes/STUD/2016/581411/EPRS_STU%282016%29581411_EN.pdf) which identify inertia of the material. It depend of:
 - materials composition
 - migration's treshold in food goods, of substance which composed materials
@@ -96,6 +99,8 @@ There is specific criteria for:
 
 #### - Stone – Building:
 Dryer directly integrate in a building. It can vary from old building (like attic) to modern building with waxed concrete. For that part, we need to study alimentary laws to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
+
+We think than, for nuts and that kind of fruit, dryer don't need to be totally clean, but for other kind of products building have to be really clean. 
 
 ![Traditional nuts dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20Stone%20building.jpg)
 
