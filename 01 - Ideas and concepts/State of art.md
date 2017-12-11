@@ -70,6 +70,8 @@ Dryer which integrate one or more wheel to transport it.
 ##### - Stone – Building:
 Dryer directly integrate in a building. It can vary from old building (like attic) to modern building with waxed concrete. For that part, we need to study alimentary laws to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
 
+We think than, for nuts and that kind of fruit, dryer don't need to be totally clean, but for other kind of products building have to be really clean.
+
 ![Traditional nuts dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20Stone%20building.jpg)
 
 ##### - Steel
