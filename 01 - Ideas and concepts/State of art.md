@@ -79,6 +79,7 @@ The same restriction than a “portable” dryer, which pliable part to make an 
 #####   - Wheel
 Dryer which integrate one or more wheel to transport it.
 
+![big one](http://forum.latelierpaysan.org/download/file.php?id=3759&sid=fe2318ce1701ca44640fd474b1e526d4)
 ![2 Wheels](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Transportable%20-%20Wheels.jpg)
 
 ### 2. Drying room
