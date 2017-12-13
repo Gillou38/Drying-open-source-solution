@@ -79,11 +79,15 @@ The same restriction than a “portable” dryer, which pliable part to make an 
 #####   - Wheel
 Dryer which integrate one or more wheel to transport it.
 
+![big one](http://forum.latelierpaysan.org/download/file.php?id=3759&sid=fe2318ce1701ca44640fd474b1e526d4)
 ![2 Wheels](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Transportable%20-%20Wheels.jpg)
 
 ### 2. Drying room
 #### A. Materials
 We don't find European restriction for indirect contact, like it appear with a dryer. in that case, food goods can stay in the same room during few days with the same air, so we consider indirect contact like direct contact. Maybe restriction could be simplified if the dryer work with renewable air.
+
+European laws indicate regulation for direct contact, so there isn't direct contact with nuts, they don't need food grade materials.(verify that information)
+
 For direct alimentary contact, it need to respect [European regulation](http://www.europarl.europa.eu/RegData/etudes/STUD/2016/581411/EPRS_STU%282016%29581411_EN.pdf) which identify inertia of the material. It depend of:
 - materials composition
 - migration's treshold in food goods, of substance which composed materials
@@ -96,6 +100,8 @@ There is specific criteria for:
 
 #### - Stone – Building:
 Dryer directly integrate in a building. It can vary from old building (like attic) to modern building with waxed concrete. For that part, we need to study alimentary laws to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
+
+We think than, for nuts and that kind of fruit, dryer don't need to be totally clean, but for other kind of products building have to be really clean. 
 
 ![Traditional nuts dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20Stone%20building.jpg)
 
@@ -185,7 +191,7 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 
 ![screw dryer type](http://www.amb-rousset.com/wp-content/uploads/1702/12/SRN-AUD-L04-012223-vue-de-cote.jpg)
 
-#### 3. Trays or equivalent system
+#### 3. Spreading systems
 Trays is the most using system to display product for artisanal or industrial application (exept for industrial drying of cereals), but other systems could be used in different applications.
 
 For example, people who just want to dry some plants suspend bunch in an hot room ...
@@ -226,17 +232,21 @@ More adapted for plant bunch, you can tie plant together and suspend them. It's 
 ### 4. Heat source
 Heat source is one of technical problem of dryer. Between effectiveness and energy independence, there is a real work to search what kind of heat source to what kind of application, to optimize known heat source and to mix some kind of heat source.
 
-#### A. Solar (warm and non pollute flow)
-##### Kind of caption
-##### - Direct:
-The most simple application for solar energy, sun heat directly the product. Generally, heating across a transparent film, sunray destroy some of nutritive components of the product.
+Maximal temperature depend of the product. Some tables indicate temperature and time to each products.
+
+### A. Solar (warm and non pollute flow)
+Solar heating is maybe the simplest system to dry food goods, but you really dependant of sunray. Generally, drying is practice during good season, but a session last more than one day, so drying stop during the night. 
+### Kind of caption
+#### - Direct:
+The most simple application for solar energy, sun heat directly the product. Generally, heating across a transparent film, to using greenhouse effect to increase temperature, but sunray destroy some of nutritive components of the product.
+You can also do it without transparent film.
 
 ![Solar direct](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20direct.jpg)
 
-##### - Indirect:
+#### - Indirect:
 It consist to using solar thermal panels, link to the drying room.
 
-- Glassed
+##### - Glassed
 In that system, sunray cross glass before heat a dark plate. After greenhouse effect increase temperature in the panel. Simply, the system can be a box with one side glassed.
 
 To optimize it:
@@ -252,7 +262,7 @@ To size your solar panel:
 ![Solar indirect glassed](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed.jpg)    
 ![Solar indirect glassed(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed(2).jpg)
 
-- Opaque
+##### - Opaque
 
 ![Solar indirect opaque](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque.jpg)    ![Solar indirect opaque(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(2).jpg)    ![Solar indirect opaque(3)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(3).jpg)     ![Solar indirect opaque(4)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(4).JPG)
 
@@ -260,7 +270,7 @@ To size your solar panel:
 
 ![Solar mixed)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20mixed.jpg)
 
-##### Other parameters
+#### Other parameters
 ##### - Positioning
 - Azimuth
 - Normal of the ground
@@ -271,6 +281,8 @@ To size your solar panel:
 #### B. Electrical (resistor)
 
 ![Electrical)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20electrical.jpg)
+
+![dehumidifer Trotec](https://trotec24.blob.core.windows.net/product-assets/images/1000x1000/1635508588758966864_a8c6a3ba-da05-4d6e-a057-c8904db0f402.jpg)
 
 #### C. Warm and pollute flow
 That kind of heat source need a heat exchanger to separate pollute flow and drying flow.
@@ -340,6 +352,9 @@ Good choice of pipes' diameter (Benaouda and al.)
 ![Partial renewal of air](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Deshumidifier%20-%20Air%20exchange%20(2).JPG)
 
 #### B. Closed pipe
+
+You can find a dehumidifier with a ventilation system. That's make a complete system to dry. Easy to instal and run, but you can't adjust it like you want. Generally, only one button to adjust all parameters. That's the simplest solution but not the more precise. If you out it in a little box, it could to heat too much, so you need to stop the system (manually or automatically).
+
 - Condensation
 
 ![Condensation](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Deshumidifier%20-%20condensation.jpg)
@@ -348,7 +363,9 @@ Good choice of pipes' diameter (Benaouda and al.)
 
 ![Absorption](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Deshumidifier%20-%20Absorbation.jpg)
 
-### 6. Alimentary legislation
+### 6. Automation
+
+### 7. Alimentary legislation
 Contact alimentaire direct
 claie
 
