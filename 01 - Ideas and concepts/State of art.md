@@ -1,11 +1,27 @@
 # State of art
 
 For basics category, we inspire by *“Les séchoirs solaires – Théorie et pratique”* de Michel Daguenet, because he made a huge work about drying science, and more applied to solar drying.
+
 # Dryer for solid, centimetre scale
-That document try to make an inventory of all kind of dryer, and technology which could be used to dry, from the convective drying to the freeze drying, and defined each technology (electric, solar ...) used in each kind of dryers. For the 2nd level category (convective, …) we choose to class them by kind of technology. Maybe, we can found a best classification.
+That part relate to drying of: 
+- plants
+- vegetables
+- fruits
+- nuts
+- cheese
+- mushroom
+- more ?
+
+For all that kind of food goods the process is almost the same, it use the same components (exept for cheese which doesn't need heating), only parameters change (temperature, time, relative humidity ...)
+
+We try to make an inventory of all kind of dryer, and technology which could be used to dry, from the convective drying to the freeze drying, and defined each technology (electric, solar ...) used in each kind of dryers. For the 2nd level of category (convective, …) we choose to class them by kind of technology. Maybe, we can found a best classification.
+
 ## Convective drying
+Convective drying consist of a contact between food goods and a heat and dry airflow to deshumidify food goods. It the principal process using for small products.
+
 ### 1. Global parameters
 There is a lot of different kind of dryer, from the little dryer for domestic application to the huge dryer for industrial application.
+
 #### A. Size
 Actually we can’t precisely defined size in function of application, it depends of the food goods.
 ##### - Domestic
@@ -67,68 +83,141 @@ Dryer which integrate one or more wheel to transport it.
 
 ### 2. Drying room
 #### A. Materials
-##### - Stone – Building:
+We don't find European restriction for indirect contact, like it appear with a dryer. in that case, food goods can stay in the same room during few days with the same air, so we consider indirect contact like direct contact. Maybe restriction could be simplified if the dryer work with renewable air.
+For direct alimentary contact, it need to respect [European regulation](http://www.europarl.europa.eu/RegData/etudes/STUD/2016/581411/EPRS_STU%282016%29581411_EN.pdf) which identify inertia of the material. It depend of:
+- materials composition
+- migration's treshold in food goods, of substance which composed materials
+- lack of deterioration of organoleptic properties (taste, smell, sight and touch) by materials
+
+There is specific criteria for:
+- materials which could be treat (ionization, recycling ...) 
+- coloring materials
+- cleaning product using on material which have contacte with good foods
+
+#### - Stone – Building:
 Dryer directly integrate in a building. It can vary from old building (like attic) to modern building with waxed concrete. For that part, we need to study alimentary laws to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
 
 ![Traditional nuts dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20Stone%20building.jpg)
 
-##### - Steel
-The same than the precedent category for metal dryer. What kind of metal can be used, some stainless steels for sure, very probably some aluminium, but need more study to identify them precisely. 
+#### - Steel
+Inertial criteria to respect are:
+- chemical composition ([European laws in french](http://www.contactalimentaire.com/fileadmin/ImageFichier_Archive/contact_alimentaire/Fichiers_Documents/Brochure_JO/Note_2004_64/Fiches_DGCCRF_Revisees/DGCCRF-Fiches-metaux-alliages.pdf)
+- limit of undesirable elements:
+	- Lead (Plomb): < 0.05 %
+	- Cadmium: < 0.01 %
+	- Arsenic: < 0.03 %
+	- ...
+- specific migration of metalic element :
+	- Nickel < 0.5 mg/kg of food goods
+	- Chrome < 5 mg/kg of food goods
+	- Zinc < 10 mg/kg of food goods
+	- Lead < 4 mg/kg of food goods
+	- cadmium < 0.3 mg/kg of food goods
+	-...
+
+*[French source](http://www.contactalimentaire.com/index.php?id=204&L=1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C%5C%5C%5C%5C%27%60%28%5B%7B%5E%7E)*
 
 ![Stainless dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20steel%20-%20stainless.jpg)
 
-##### - Wood:
+#### - Wood:
+For European regulation, 2 categories of criteria could influence the choice :
+- wood variety:
+	- accept all food goods: oak, sweet chestnut, ash, hornbeam, black locust, pine, spruce, douglas, maritime pine, scotch pine, poplar, beech, plane, aspen, alder, olive, birch
+	- only for solid food goods: walnut, elm, 
+- essence de bois: 
+	- pour tout les aliments : chêne, châtaignier, frêne, charme, robinier, sapin, épicéa, douglas, pin maritime, pin sylvestre, peuplier, hêtre, platane, tremble, aulne, olivier, bouleau
+	- pour les solide alimentaires : hêtre, noyer, orme, peuplier
+- wood treatment: 
+	- no pentachlorophenol treatment (< 0,1 mg/kg of wood)
+	- 
+- traitement du bois : 
+	- Absence de traitement au pentachlorophénol (< 0,1 mg/kg de bois)
+	- Produits de traitement autorisés pour les emballages de fruits et légumes
+	
+*[french source](http://www.contactalimentaire.com/index.php?id=382)*
 
 ![Wood dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20wood.jpg)
 
-##### - Plastic
+#### - Plastic
+Inertial criteria to respect is decompose of 3 categories:
+- global restriction about substances
+- global limit of migration: < 10 mg/dm² (for material which used to babies good foods (< 3years), the limit is 60 mg/dm²)
+- specific limit of migration
 
+*[French source](http://www.contactalimentaire.com/index.php?id=250), and [other](http://www.contactalimentaire.com/fileadmin/ImageFichier_Archive/contact_alimentaire/Fichiers_Documents/autres/Fiches-materiaux-organiques-matieres-synthetiques.pdf)*
+*[epoxy document](http://www.contactalimentaire.com/fileadmin/ImageFichier_Archive/contact_alimentaire/Fichiers_Documents/Reglements_anglais/reg2005-1895ang.pdf)*
 ![Plastic dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20plastic.jpg)
 
-##### - Varnish materials
+#### - Varnish materials
 What kind of varnish could be used, what the maximum rate of product could be used.
+
 #### B. Form
-That the very hard part of the state of art, a lot of forms of dryer was experiment since the first realisation 12 000 years before, so we try to make the most complete list of kind of dryer. 
-Maybe there dryers which can be regroup in the same category but to be sure to list all kind of dryer, we separate all little difference.
-##### - Shell type (indirect solar natural convection)
+That the very hard part of the state of art, a lot of forms of dryer was experiment since the first realisation 12 000 years before, so we try to make the most complete list of kind of dryer, to inspire us and other to during the design of there dryer.
+Maybe some dryers which can be regroup in the same category but to be sure to list all kind of dryer, we separate all little difference.
+#### - Shell type (indirect solar natural convection)
 
 ![Shell Type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20shell%20type.jpg)
 
-##### - Vertical type with trays
+#### - Vertical type with trays
 
 ![Vertical with trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20vertical%20type%20with%20trays.jpg)
 
-##### - Spread type (solar direct):
+#### - Spread type (solar direct):
 Spread dryer, is a special form of vertical dryer, adapt to solar direct application, but it can be used in different case but that’s not real useful.
 
 ![Spread type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20spread%20type.jpg)
 
-##### - Tunnel type
+#### - Tunnel type
 That’s more or less the same system than spread type, but for that category we exclude direct solar input. So, all kind of heat source could be considered. 
 
 ![Tunnel type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20tunnel%20type.jpg)     ![Tunnel type(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20tunnel%20type(2).jpg)
 
-##### - Rotative cylinder type
-More adapted for cereals, and that kind of products. That kind of dryer is composed of a rotative drying room, which is crossed by an airflow. It provide to dry equitably all products.
+#### - Rotative cylinder type
+More adapted for cereals, and that kind of products. That kind of dryer is composed of a rotative drying room, which is crossed by an airflow. It provide to dry equitably all products. It doesn't need trays, but it need an high level of complexity. It more adapted for industrial applications.
 
 ![Rotative cylinder type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20rotative%20cylinder%20type.jpg)     ![Rotative cylinder type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20rotative%20cylinder%20type(2).jpg)
 
-#### 3. Trays
-##### - Fabric
+#### - Silo type
 
-![Fabric](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20fabric.jpg)
+![Silo type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20silo%20type.JPG)
+
+#### - Screw dryer type
+
+![screw dryer type](http://www.amb-rousset.com/wp-content/uploads/1702/12/SRN-AUD-L04-012223-vue-de-cote.jpg)
+
+#### 3. Trays or equivalent system
+Trays is the most using system to display product for artisanal or industrial application (exept for industrial drying of cereals), but other systems could be used in different applications.
+
+For example, people who just want to dry some plants suspend bunch in an hot room ...
+
+##### - Fabric
+Maybe the best fabric solution is mosquito net (~7 €/linear meter) because, air can easy cross it, but verify alimentary application before.
+
+![Tray with fabric](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20fabric.jpg)
 
 ##### - Screen
+Different kind of screen could be used, for example:
+- fine grillage: it isn't an alimentary material, verify regulation before to use something
+- alimentary grille: generally using for oven or aging rack
+- ripening mat for cheese: that's a good solution because, it make for alimentary application so, there isn't problem with respect of regulation. Exist in different materials: plastic, inox
 
-![Screen](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20screen.jpg)
+![Fromagex - ripening mat](https://www.fromagex.com/can/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_20198_1_1835_262_10588.jpg)
+![Fine grillage](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20screen.jpg)
+![alimentary grille](http://www.materiel-cuisson-frigorifique.com/back/images_article/201207190116714.jpg)
 
 ##### - Bar
-
+That kind of display is more adapt to long product or to plant bunch.
 ![Bar](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20bar.jpg)    ![Bar(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20bar(2).jpg)
 
 ##### - Pic
+Maybe with that technic, you can dry more fruit or vegetable than with trays, but it need more time to spread them.
 
 ![Pic](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20pic.jpg)
+
+##### - String
+More adapted for plant bunch, you can tie plant together and suspend them. It's a very tedious technic but which doesn't need any construction.
+
+![Plant bunch](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.jardinerenville.fr%2Fwp-content%2Fuploads%2F2015%2F11%2Fplante1.jpg&f=1)
 
 ##### - Forklift - Mobile trays
 
@@ -136,23 +225,36 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 
 ### 4. Heat source
 Heat source is one of technical problem of dryer. Between effectiveness and energy independence, there is a real work to search what kind of heat source to what kind of application, to optimize known heat source and to mix some kind of heat source.
+
 #### A. Solar (warm and non pollute flow)
 ##### Kind of caption
 ##### - Direct:
+The most simple application for solar energy, sun heat directly the product. Generally, heating across a transparent film, sunray destroy some of nutritive components of the product.
 
 ![Solar direct](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20direct.jpg)
 
 ##### - Indirect:
+It consist to using solar thermal panels, link to the drying room.
+
 - Glassed
-Simple or double glazing
-Black absorber, alimentary paint?
+In that system, sunray cross glass before heat a dark plate. After greenhouse effect increase temperature in the panel. Simply, the system can be a box with one side glassed.
+
+To optimize it:
+- double glazing: it increase greenhouse effect and isolation of the system. To optimize double glazing insolation, you can increase distance between glasses until 4mm. After a convective in space between the glasse reduce isolation.
+- darkest plate: it increase absorption sunray. for greenhouse effect, we need to have the sunray which can't cross glassed when they're inside the box. Dark material modify frequency of sunray. With there new frequency they more block in the panel.
+- external isolation: it increase temperature conservation in the box
+
+To size your solar panel:
+- For plant, you need nearly third of meter square of panel of the weight of your production.
+- for fruits and vegetables:
+- ...
 
 ![Solar indirect glassed](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed.jpg)    
 ![Solar indirect glassed(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20glassed(2).jpg)
 
 - Opaque
 
-![Solar indirect opaque](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque.jpg)    ![Solar indirect opaque(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(2).jpg)    ![Solar indirect opaque(3)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(3).jpg)
+![Solar indirect opaque](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque.jpg)    ![Solar indirect opaque(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(2).jpg)    ![Solar indirect opaque(3)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(3).jpg)     ![Solar indirect opaque(4)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20solar%20indirect%20opaque(4).JPG)
 
 ##### - Mixed (direct + indirect)
 
