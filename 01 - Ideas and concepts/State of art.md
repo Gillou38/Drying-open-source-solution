@@ -191,7 +191,7 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 
 ![screw dryer type](http://www.amb-rousset.com/wp-content/uploads/1702/12/SRN-AUD-L04-012223-vue-de-cote.jpg)
 
-#### 3. Trays or equivalent system
+#### 3. Spreading systems
 Trays is the most using system to display product for artisanal or industrial application (exept for industrial drying of cereals), but other systems could be used in different applications.
 
 For example, people who just want to dry some plants suspend bunch in an hot room ...
