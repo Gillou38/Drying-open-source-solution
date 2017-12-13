@@ -32,12 +32,12 @@ Materials
 Drawers
 -------
 
-![Drawer parameter sketch](/Drawings/Parameters-drawer.png)
+![Drawer parameter sketch](./Drawings/Parameters-drawer.png)
 
 Supporting structure
 ---------
 
-![Structure parameter sketch](/Drawings/Parameters-structure.png)
+![Structure parameter sketch](./Drawings/Parameters-structure.png)
 
 
 Layout structure
