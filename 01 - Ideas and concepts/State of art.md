@@ -106,6 +106,7 @@ We think than, for nuts and that kind of fruit, dryer don't need to be totally c
 ![Traditional nuts dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20Stone%20building.jpg)
 
 #### - Steel
+Steel is a good solution for fruits and vegetables dryers, which need to be wash with water after each utilization, so stainless steel is easy to clean and it's resilient.
 Inertial criteria to respect are:
 - chemical composition ([European laws in french](http://www.contactalimentaire.com/fileadmin/ImageFichier_Archive/contact_alimentaire/Fichiers_Documents/Brochure_JO/Note_2004_64/Fiches_DGCCRF_Revisees/DGCCRF-Fiches-metaux-alliages.pdf)
 - limit of undesirable elements:
@@ -135,7 +136,7 @@ For European regulation, 2 categories of criteria could influence the choice :
 	- pour les solide alimentaires : hêtre, noyer, orme, peuplier
 - wood treatment: 
 	- no pentachlorophenol treatment (< 0,1 mg/kg of wood)
-	- 
+	- ?
 - traitement du bois : 
 	- Absence de traitement au pentachlorophénol (< 0,1 mg/kg de bois)
 	- Produits de traitement autorisés pour les emballages de fruits et légumes
@@ -145,6 +146,7 @@ For European regulation, 2 categories of criteria could influence the choice :
 ![Wood dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20wood.jpg)
 
 #### - Plastic
+Plastic is a good solution for fruits and vegetables dryers, which need to be wash with water after each utilization, so plastic is easy to clean but it isn't resilient.
 Inertial criteria to respect is decompose of 3 categories:
 - global restriction about substances
 - global limit of migration: < 10 mg/dm² (for material which used to babies good foods (< 3years), the limit is 60 mg/dm²)
@@ -156,6 +158,9 @@ Inertial criteria to respect is decompose of 3 categories:
 
 #### - Varnish materials
 What kind of varnish could be used, what the maximum rate of product could be used.
+
+- Vanish for wood
+For fruit and vegetable dryers which need to be clean with water, wood without vanish can't reply to that restriction. So to vanish wood could be a great solution to have an easy to make dryer and respect very restricted alimentary regulation.
 
 #### B. Form
 That the very hard part of the state of art, a lot of forms of dryer was experiment since the first realisation 12 000 years before, so we try to make the most complete list of kind of dryer, to inspire us and other to during the design of there dryer.
