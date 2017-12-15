@@ -204,18 +204,18 @@ For example, people who just want to dry some plants suspend bunch in an hot roo
 
 #### 3.1.1 Loosely
 
-#### 3.1.1.1 Reversal
-#### - Screw 
+##### 3.1.1.1 Reversal
+##### - Screw 
 
-#### 3.1.1.2 Not reversal
+##### 3.1.1.2 Not reversal
 
-#### - Cylindric contener - Silo
+##### - Cylindric contener - Silo
 
-#### - Square contener - Bac
+##### - Square contener - Bac
 
-#### 3.1.1 Scatter
-#### 3.1.2.1 Trays
-#### 3.1.2.1.1 Support
+#### 3.1.2 Scatter
+##### 3.1.2.1 Trays
+##### 3.1.2.1.1 Support
 ##### - Fabric
 Maybe the best fabric solution is mosquito net (~7 €/linear meter) because, air can easy cross it, but verify alimentary application before.
 
@@ -231,22 +231,24 @@ Different kinds of screen could be used, for example:
 ![Fine grillage](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20screen.jpg)
 ![alimentary grille](http://www.materiel-cuisson-frigorifique.com/back/images_article/201207190116714.jpg)
 
-#### 3.1.2.1.1 Spread thickness
+##### 3.1.2.1.2 Spread thickness
 
 ##### - Thin layers
+![Thin layer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Spread%20system%20-%20Thin%20layer.JPG)
 
 ##### - Thick layers
+![Thick layer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Spread%20system%20-%20Thick%20layer.JPG)
 
-#### 3.1.2.2 Bar
+##### 3.1.2.2 Bar
 That kind of display is more adapt to long product or to plant bunch.
 ![Bar](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20bar.jpg)    ![Bar(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20bar(2).jpg)
 
-#### 3.1.2.3 Pic
+##### 3.1.2.3 Pic
 Maybe with that technic, you can dry more fruit or vegetable than with trays, but it need more time to spread them.
 
 ![Pic](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20pic.jpg)
 
-#### 3.1.2.4 String
+##### 3.1.2.4 String
 More adapted for plant bunch, you can tie plant together and suspend them. It's a very tedious technic but which doesn't need any construction.
 
 ![Plant bunch](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.jardinerenville.fr%2Fwp-content%2Fuploads%2F2015%2F11%2Fplante1.jpg&f=1)
@@ -254,10 +256,11 @@ More adapted for plant bunch, you can tie plant together and suspend them. It's 
 
 #### 3.2 Loading systems
 
-#### 3.2.1 Manual
+##### 3.2.1 Manual
 
 ##### 3.2.1.1 Slide system
 
+##### 3.2.1.1.1 Perpendicular to the door
 ##### - Rail
 Like for storage drawer
 
@@ -269,34 +272,38 @@ Like for storage drawer
 ##### - Wood batten
 ![Wood batten](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.cmsdanskin.co.uk%2Fwp-content%2Fuploads%2F2013%2F07%2Fresilient-batten.jpg&f=1)
 
-#### 3.2.1.2 Roll system
+##### 3.2.1.1.2 Parallel to the door
+
+##### - Bambou
+![Thin layer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Spread%20system%20-%20Thin%20layer.JPG)
+
+##### 3.2.1.2 Roll system
 
 ##### - Cart - Mobile trays
 
 ![Mobile trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20Forklift%20-%20Mobile%20trays.jpg)
 
-#### 3.2.1.3 Hang system
+##### 3.2.1.3 Hang system
 
 ##### - Hook
 
 ##### - Knot
+![Plant bunch](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.jardinerenville.fr%2Fwp-content%2Fuploads%2F2015%2F11%2Fplante1.jpg&f=1)
 
 ##### - Elastic
 
-#### 3.2.1.4 Distribut system
+##### 3.2.1.4 Distribut system
+Pipe with electrical valvle
 
-#### 3.2.2 Automatic
+##### 3.2.2 Automatic
 
+##### 3.3 Spreading system
 
+##### 3.3.1 Manual
 
+##### 3.3.2 Automatic
 
-### 3.3 Spreading system
-
-#### 3.3.1 Manual
-
-#### 3.3.2 Automatic
-
-#### - Equaliser
+##### - Equaliser
 
 ![Equaliser](http://www.amb-rousset.com/wp-content/uploads/2012/02/SAE-AUD-L04-012224-vue2.jpg)
 
@@ -376,15 +383,19 @@ Different kind of heat exchanger can be used to transfer energy from 1st fluid t
 - Compost
 - Oil combustion
 - Wood combustion
+![Wood combustion](http://forum.latelierpaysan.org/download/file.php?id=2804&sid=1b5d89bf4791922e41dc12cb3ea7d67d)
 
 
 ### 5. Convection
 #### A. Kind
 ##### Natural: Work with rising warm airflow
+Not pulsed air
 
 ![Natural convection](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20natural.jpg)
 
 ##### Forced
+Pulsed air
+
 ##### - Electrical
 
 ![Forced convection - electrical](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20forced%20-%20electrical.jpg)
