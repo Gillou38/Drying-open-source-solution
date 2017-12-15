@@ -196,18 +196,33 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 
 ![screw dryer type](http://www.amb-rousset.com/wp-content/uploads/1702/12/SRN-AUD-L04-012223-vue-de-cote.jpg)
 
-#### 3. Spreading systems
+#### 3 Supplying systems
+#### 3.1 Containing systems
 Trays is the most using system to display product for artisanal or industrial application (exept for industrial drying of cereals), but other systems could be used in different applications.
 
 For example, people who just want to dry some plants suspend bunch in an hot room ...
 
+#### 3.1.1 Loosely
+
+#### 3.1.1.1 Reversal
+#### - Screw 
+
+#### 3.1.1.2 Not reversal
+
+#### - Cylindric contener - Silo
+
+#### - Square contener - Bac
+
+#### 3.1.1 Scatter
+#### 3.1.2.1 Trays
+#### 3.1.2.1.1 Support
 ##### - Fabric
 Maybe the best fabric solution is mosquito net (~7 €/linear meter) because, air can easy cross it, but verify alimentary application before.
 
 ![Tray with fabric](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20fabric.jpg)
 
 ##### - Screen
-Different kind of screen could be used, for example:
+Different kinds of screen could be used, for example:
 - fine grillage: it isn't an alimentary material, verify regulation before to use something
 - alimentary grille: generally using for oven or aging rack
 - ripening mat for cheese: that's a good solution because, it make for alimentary application so, there isn't problem with respect of regulation. Exist in different materials: plastic, inox
@@ -216,23 +231,74 @@ Different kind of screen could be used, for example:
 ![Fine grillage](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20screen.jpg)
 ![alimentary grille](http://www.materiel-cuisson-frigorifique.com/back/images_article/201207190116714.jpg)
 
-##### - Bar
+#### 3.1.2.1.1 Spread thickness
+
+##### - Thin layers
+
+##### - Thick layers
+
+#### 3.1.2.2 Bar
 That kind of display is more adapt to long product or to plant bunch.
 ![Bar](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20bar.jpg)    ![Bar(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20bar(2).jpg)
 
-##### - Pic
+#### 3.1.2.3 Pic
 Maybe with that technic, you can dry more fruit or vegetable than with trays, but it need more time to spread them.
 
 ![Pic](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20pic.jpg)
 
-##### - String
+#### 3.1.2.4 String
 More adapted for plant bunch, you can tie plant together and suspend them. It's a very tedious technic but which doesn't need any construction.
 
 ![Plant bunch](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.jardinerenville.fr%2Fwp-content%2Fuploads%2F2015%2F11%2Fplante1.jpg&f=1)
 
-##### - Forklift - Mobile trays
+
+#### 3.2 Loading systems
+
+#### 3.2.1 Manual
+
+##### 3.2.1.1 Slide system
+
+##### - Rail
+Like for storage drawer
+
+![Rail](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F31NIMmo-KaL._AC_UL160_SR160%2C160_.jpg&f=1)
+
+##### - Angle iron
+![Angle iron](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.leboutte.be%2Fimages%2Fcatalogue%2Fmetaux%2Fcorniere.jpg&f=1)
+
+##### - Wood batten
+![Wood batten](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.cmsdanskin.co.uk%2Fwp-content%2Fuploads%2F2013%2F07%2Fresilient-batten.jpg&f=1)
+
+#### 3.2.1.2 Roll system
+
+##### - Cart - Mobile trays
 
 ![Mobile trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20Forklift%20-%20Mobile%20trays.jpg)
+
+#### 3.2.1.3 Hang system
+
+##### - Hook
+
+##### - Knot
+
+##### - Elastic
+
+#### 3.2.1.4 Distribut system
+
+#### 3.2.2 Automatic
+
+
+
+
+### 3.3 Spreading system
+
+#### 3.3.1 Manual
+
+#### 3.3.2 Automatic
+
+#### - Equaliser
+
+![Equaliser](http://www.amb-rousset.com/wp-content/uploads/2012/02/SAE-AUD-L04-012224-vue2.jpg)
 
 ### 4. Heat source
 Heat source is one of technical problem of dryer. Between effectiveness and energy independence, there is a real work to search what kind of heat source to what kind of application, to optimize known heat source and to mix some kind of heat source.
