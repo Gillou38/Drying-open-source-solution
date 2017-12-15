@@ -162,7 +162,7 @@ What kind of varnish could be used, what the maximum rate of product could be us
 - Vanish for wood
 For fruit and vegetable dryers which need to be clean with water, wood without vanish can't reply to that restriction. So to vanish wood could be a great solution to have an easy to make dryer and respect very restricted alimentary regulation.
 
-#### B. Form
+#### B. Shape
 That the very hard part of the state of art, a lot of forms of dryer was experiment since the first realisation 12 000 years before, so we try to make the most complete list of kind of dryer, to inspire us and other to during the design of there dryer.
 Maybe some dryers which can be regroup in the same category but to be sure to list all kind of dryer, we separate all little difference.
 #### - Shell type (indirect solar natural convection)
