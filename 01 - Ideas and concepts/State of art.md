@@ -253,7 +253,6 @@ More adapted for plant bunch, you can tie plant together and suspend them. It's 
 
 ![Plant bunch](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.jardinerenville.fr%2Fwp-content%2Fuploads%2F2015%2F11%2Fplante1.jpg&f=1)
 
-
 #### 3.2 Loading systems
 
 ##### 3.2.1 Manual
@@ -293,9 +292,23 @@ Like for storage drawer
 ##### - Elastic
 
 ##### 3.2.1.4 Distribut system
-Pipe with electrical valvle
+Pipe with manual valvle
 
 ##### 3.2.2 Automatic
+
+##### 3.2.2.1 Distributor system
+Pipe with electrical valvle
+![Distibutor system](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fsarljamase.pagesperso-orange.fr%2Fimages%2FMayrathN10.gif&f=1)
+
+##### 3.2.2.2 Conveyor system
+##### - Cart conveyor
+![Cart conveyor](https://www.cft-group.com/fr/anteprima_traydry_2_0450_1.jpg?h=924566629f59d8794623abbcff53479945be3c35)
+
+##### - Conveyor belt
+![Conveyor belt](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fsc01.alicdn.com%2Fkf%2FHTB1Nl3qLXXXXXcdXXXXq6xXFXXXX%2FT-Shirt-conveyor-belt-dryer-Textile-tunnel.jpg&f=1)
+
+##### 3.2.2.3 Endless srew system
+![Endless srew](http://www.lindner-sommerauer.fr/lindner/vis/image/P1050679.JPG)
 
 ##### 3.3 Spreading system
 
@@ -306,6 +319,8 @@ Pipe with electrical valvle
 ##### - Equaliser
 
 ![Equaliser](http://www.amb-rousset.com/wp-content/uploads/2012/02/SAE-AUD-L04-012224-vue2.jpg)
+
+##### - Vibration
 
 ### 4. Heat source
 Heat source is one of technical problem of dryer. Between effectiveness and energy independence, there is a real work to search what kind of heat source to what kind of application, to optimize known heat source and to mix some kind of heat source.
