@@ -206,12 +206,16 @@ For example, people who just want to dry some plants suspend bunch in an hot roo
 
 ##### 3.1.1.1 Reversal
 ##### - Screw 
+See [Screw dryer](http://www.amb-rousset.com/products/sechoir-a-vis/) or [another dryer](http://www.heinkel.com/products/dryers-and-mixers/conical-screw-vacuum-dryer.aspx)
 
 ##### 3.1.1.2 Not reversal
 
 ##### - Cylindric contener - Silo
+![Silo type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20silo%20type.JPG)
 
 ##### - Square contener - Bac
+
+![square contener](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.fermedelaguilbardiere.fr%2Fimages%2Fdossiers%2Fhistorique%2F36-115906.jpg&f=1)
 
 #### 3.1.2 Scatter
 ##### 3.1.2.1 Trays
