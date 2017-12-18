@@ -224,8 +224,13 @@ See [Screw dryer](http://www.amb-rousset.com/products/sechoir-a-vis/) or [anothe
 ![square contener](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.fermedelaguilbardiere.fr%2Fimages%2Fdossiers%2Fhistorique%2F36-115906.jpg&f=1)
 
 #### 3.1.2 Scatter
+
 ##### 3.1.2.1 Trays
+
+Trays is most common solution for convective dryer, exept cereal dryer, which use bigger contener.
+
 ##### 3.1.2.1.1 Support
+
 ##### - Fabric
 Maybe the best fabric solution is mosquito net (~7 €/linear meter) because, air can easy cross it, but verify alimentary application before.
 
