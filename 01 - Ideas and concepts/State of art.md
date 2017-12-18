@@ -14,13 +14,13 @@ That part relate to drying of:
 
 For all that kind of food goods the process is almost the same, it use the same components (exept for cheese which doesn't need heating), only parameters change (temperature, time, relative humidity ...)
 
-We try to make an inventory of all kind of dryer, and technology which could be used to dry, from the convective drying to the freeze drying, and defined each technology (electric, solar ...) used in each kind of dryers. For the 2nd level of category (convective, …) we choose to class them by kind of technology. Maybe, we can found a best classification.
+We try to make an inventory of all kind of dryer, and technology which could be used to dry, from the convective drying to the freeze drying, and defined each technology (electric, solar ...) used in each kind of dryers. For the 2nd level of category (convective, Freeze, IR, microwave) we choose to class them by kind of technology. Maybe, we can found a best classification.
 
 ## Convective drying
-Convective drying consist of a contact between food goods and a heat and dry airflow to deshumidify food goods. It the principal process using for small products.
+Convective drying consist of a contact between food goods and an heat and dry airflow to deshumidify food goods. It the most common process using for small products, because it's the cheaper and simpler process.
 
 ### 1. Global parameters
-There is a lot of different kind of dryer, from the little dryer for domestic application to the huge dryer for industrial application.
+There is a lot of different kind of dryer, from the little dryer for domestic application to the huge dryer for industrial application, there can be organized in one block, or in some blocks, which make a more modulare system. 
 
 #### A. Size
 Actually we can’t precisely defined size in function of application, it depends of the food goods.
@@ -49,13 +49,13 @@ Advantages:
 
 Disadvantages:
 - not transportable for middle size (size of a big wardrobe) of dryer
-- 
 
 ![Compact organization](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20compact%20organization.jpg)    ![All in drying room](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20All%20in%20drying%20room.jpg)       ![All in drying room (2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20All%20in%20drying%20room(2).jpg)
 
 #####   - Multi-bloc
 Advantages:
 - can be move by part, maybe can be taken apart (démonté)
+- modulability
 
 Disadvantages: 
 - lost energy (temperature and airflow) in pipe
@@ -84,7 +84,9 @@ Dryer which integrate one or more wheel to transport it.
 
 ### 2. Drying room
 #### A. Materials
-We don't find European restriction for indirect contact, like it appear with a dryer. in that case, food goods can stay in the same room during few days with the same air, so we consider indirect contact like direct contact. Maybe restriction could be simplified if the dryer work with renewable air.
+We don't find European restriction for indirect contact, like it appear with a dryer. In that case, food goods can stay in the same room during few days with the same air, so we consider indirect contact like direct contact, we work later more presicely about that question. Maybe restriction could be simplified if the dryer work with renewable air.
+
+The best way to respect restriction is to use food grade product, but we try to popularize restriction to divert other material and products.
 
 European laws indicate regulation for direct contact, so there isn't direct contact with nuts, they don't need food grade materials.(verify that information)
 
@@ -99,7 +101,7 @@ There is specific criteria for:
 - cleaning product using on material which have contacte with good foods
 
 #### - Stone – Building:
-Dryer directly integrate in a building. It can vary from old building (like attic) to modern building with waxed concrete. For that part, we need to study alimentary laws to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
+Dryer directly integrate in a building. It can vary from old building (like an attic) to modern building with waxed concrete. For that part, we need to study food grade materials to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
 
 We think than, for nuts and that kind of fruit, dryer don't need to be totally clean, but for other kind of products building have to be really clean. 
 
@@ -161,6 +163,10 @@ What kind of varnish could be used, what the maximum rate of product could be us
 
 - Vanish for wood
 For fruit and vegetable dryers which need to be clean with water, wood without vanish can't reply to that restriction. So to vanish wood could be a great solution to have an easy to make dryer and respect very restricted alimentary regulation.
+
+#### - cleaning products
+You need to clean materials and objects, which could be in contact with food goods, before each using.
+
 
 #### B. Shape
 That the very hard part of the state of art, a lot of forms of dryer was experiment since the first realisation 12 000 years before, so we try to make the most complete list of kind of dryer, to inspire us and other to during the design of there dryer.
