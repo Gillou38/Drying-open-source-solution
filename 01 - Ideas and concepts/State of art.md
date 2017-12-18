@@ -259,7 +259,7 @@ More adapted for plant bunch, you can tie plant together and suspend them. It's 
 
 #### 3.2 Loading systems
 
-##### 3.2.1 Manual
+##### 3.2.1 Manual - 
 
 ##### 3.2.1.1 Slide system
 
@@ -296,7 +296,6 @@ Like for storage drawer
 ##### - Elastic
 
 ##### 3.2.1.4 Distribut system
-Pipe with manual valvle
 
 ##### 3.2.2 Automatic
 
