@@ -30,6 +30,7 @@ Materials
 
 -   Drawer bottom: cheese maturing canvas
 
+<<<<<<< HEAD
 Supporting structure
 ---------
 
@@ -43,11 +44,17 @@ Drawers
 -------
 
 ![Drawer parameter sketch](https://github.com/jbon/Drying-open-source-solution/blob/master/02%20-%20Developing/Dryer%20Le%C3%AFa/Drawings/Parameters-drawer.png)
+=======
+Drawers
+-------
+
+![Drawer parameter sketch](./Drawings/Parameters-drawer.png)
+>>>>>>> 11d028a6876b1f5498b6bf413ceeae2ae5af9e2b
 
 Supporting structure
 ---------
 
-![Structure parameter sketch](https://github.com/jbon/Drying-open-source-solution/blob/master/02%20-%20Developing/Dryer%20Le%C3%AFa/Drawings/Parameters-structure.png)
+![Structure parameter sketch](./Drawings/Parameters-structure.png)
 
 
 Layout structure
