@@ -105,6 +105,8 @@ Dryer directly integrate in a building. It can vary from old building (like an a
 
 We think than, for nuts and that kind of fruit, dryer don't need to be totally clean, but for other kind of products building have to be really clean. 
 
+We think than, for nuts and that kind of fruit, dryer don't need to be totally clean, but for other kind of products building have to be really clean.
+
 ![Traditional nuts dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20Stone%20building.jpg)
 
 #### - Steel

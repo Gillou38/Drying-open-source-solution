@@ -1,7 +1,7 @@
 Open Source Vegetable Dryer
 ===========================
 
--   A vegetable dryer
+-   A vegetable dryer 
 
 -   Combines solar and electrical energies
 
