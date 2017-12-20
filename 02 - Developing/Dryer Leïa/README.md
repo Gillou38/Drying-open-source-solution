@@ -20,10 +20,6 @@ Derived requirements
 
 -   21 drawers of about 0,48m² (0,6\*0,8)
 
-Overview
---------
-
-![screenshot_rendering_STL](https://github.com/jbon/Drying-open-source-solution/blob/master/02%20-%20Developing/Dryer%20Le%C3%AFa/img/screenshot_rendering_STL.PNG)
 
 Materials
 ---------
