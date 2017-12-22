@@ -1,4 +1,4 @@
-Dryer Model “Leïa”
+﻿Dryer Model “Leïa”
 ==================
 
 Specifications
@@ -20,6 +20,7 @@ Derived requirements
 
 -   21 drawers of about 0,48m² (0,6\*0,8)
 
+
 Materials
 ---------
 
@@ -29,10 +30,22 @@ Materials
 
 -   Drawer bottom: cheese maturing canvas
 
+
+Supporting structure
+---------
+
+- Section: 50 x 50 mm
+  
+- No structure on the front side to tread drawers
+
+- Fix together with angle connector
+
+
 Drawers
 -------
 
 ![Drawer parameter sketch](./Drawings/Parameters-drawer.png)
+
 
 Supporting structure
 ---------

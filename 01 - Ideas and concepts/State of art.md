@@ -14,13 +14,13 @@ That part relate to drying of:
 
 For all that kind of food goods the process is almost the same, it use the same components (exept for cheese which doesn't need heating), only parameters change (temperature, time, relative humidity ...)
 
-We try to make an inventory of all kind of dryer, and technology which could be used to dry, from the convective drying to the freeze drying, and defined each technology (electric, solar ...) used in each kind of dryers. For the 2nd level of category (convective, …) we choose to class them by kind of technology. Maybe, we can found a best classification.
+We try to make an inventory of all kind of dryer, and technology which could be used to dry, from the convective drying to the freeze drying, and defined each technology (electric, solar ...) used in each kind of dryers. For the 2nd level of category (convective, Freeze, IR, microwave) we choose to class them by kind of technology. Maybe, we can found a best classification.
 
 ## Convective drying
-Convective drying consist of a contact between food goods and a heat and dry airflow to deshumidify food goods. It the principal process using for small products.
+Convective drying consist of a contact between food goods and an heat and dry airflow to deshumidify food goods. It the most common process using for small products, because it's the cheaper and simpler process.
 
 ### 1. Global parameters
-There is a lot of different kind of dryer, from the little dryer for domestic application to the huge dryer for industrial application.
+There is a lot of different kind of dryer, from the little dryer for domestic application to the huge dryer for industrial application, there can be organized in one block, or in some blocks, which make a more modulare system. 
 
 #### A. Size
 Actually we can’t precisely defined size in function of application, it depends of the food goods.
@@ -49,13 +49,13 @@ Advantages:
 
 Disadvantages:
 - not transportable for middle size (size of a big wardrobe) of dryer
-- 
 
 ![Compact organization](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20compact%20organization.jpg)    ![All in drying room](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20All%20in%20drying%20room.jpg)       ![All in drying room (2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Organization%20-%20All%20in%20drying%20room(2).jpg)
 
 #####   - Multi-bloc
 Advantages:
 - can be move by part, maybe can be taken apart (démonté)
+- modulability
 
 Disadvantages: 
 - lost energy (temperature and airflow) in pipe
@@ -84,7 +84,9 @@ Dryer which integrate one or more wheel to transport it.
 
 ### 2. Drying room
 #### A. Materials
-We don't find European restriction for indirect contact, like it appear with a dryer. in that case, food goods can stay in the same room during few days with the same air, so we consider indirect contact like direct contact. Maybe restriction could be simplified if the dryer work with renewable air.
+We don't find European restriction for indirect contact, like it appear with a dryer. In that case, food goods can stay in the same room during few days with the same air, so we consider indirect contact like direct contact, we work later more presicely about that question. Maybe restriction could be simplified if the dryer work with renewable air.
+
+The best way to respect restriction is to use food grade product, but we try to popularize restriction to divert other material and products.
 
 European laws indicate regulation for direct contact, so there isn't direct contact with nuts, they don't need food grade materials.(verify that information)
 
@@ -99,13 +101,16 @@ There is specific criteria for:
 - cleaning product using on material which have contacte with good foods
 
 #### - Stone – Building:
-Dryer directly integrate in a building. It can vary from old building (like attic) to modern building with waxed concrete. For that part, we need to study alimentary laws to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
+Dryer directly integrate in a building. It can vary from old building (like an attic) to modern building with waxed concrete. For that part, we need to study food grade materials to identified what kind of material could be used, almost sure waxed concrete is legal, the rest need more study.
 
 We think than, for nuts and that kind of fruit, dryer don't need to be totally clean, but for other kind of products building have to be really clean. 
+
+We think than, for nuts and that kind of fruit, dryer don't need to be totally clean, but for other kind of products building have to be really clean.
 
 ![Traditional nuts dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20Stone%20building.jpg)
 
 #### - Steel
+Steel is a good solution for fruits and vegetables dryers, which need to be wash with water after each utilization, so stainless steel is easy to clean and it's resilient.
 Inertial criteria to respect are:
 - chemical composition ([European laws in french](http://www.contactalimentaire.com/fileadmin/ImageFichier_Archive/contact_alimentaire/Fichiers_Documents/Brochure_JO/Note_2004_64/Fiches_DGCCRF_Revisees/DGCCRF-Fiches-metaux-alliages.pdf)
 - limit of undesirable elements:
@@ -135,7 +140,7 @@ For European regulation, 2 categories of criteria could influence the choice :
 	- pour les solide alimentaires : hêtre, noyer, orme, peuplier
 - wood treatment: 
 	- no pentachlorophenol treatment (< 0,1 mg/kg of wood)
-	- 
+	- ?
 - traitement du bois : 
 	- Absence de traitement au pentachlorophénol (< 0,1 mg/kg de bois)
 	- Produits de traitement autorisés pour les emballages de fruits et légumes
@@ -145,6 +150,7 @@ For European regulation, 2 categories of criteria could influence the choice :
 ![Wood dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Materials%20-%20wood.jpg)
 
 #### - Plastic
+Plastic is a good solution for fruits and vegetables dryers, which need to be wash with water after each utilization, so plastic is easy to clean but it isn't resilient.
 Inertial criteria to respect is decompose of 3 categories:
 - global restriction about substances
 - global limit of migration: < 10 mg/dm² (for material which used to babies good foods (< 3years), the limit is 60 mg/dm²)
@@ -157,7 +163,14 @@ Inertial criteria to respect is decompose of 3 categories:
 #### - Varnish materials
 What kind of varnish could be used, what the maximum rate of product could be used.
 
-#### B. Form
+- Vanish for wood
+For fruit and vegetable dryers which need to be clean with water, wood without vanish can't reply to that restriction. So to vanish wood could be a great solution to have an easy to make dryer and respect very restricted alimentary regulation.
+
+#### - cleaning products
+You need to clean materials and objects, which could be in contact with food goods, before each using.
+
+
+#### B. Shape
 That the very hard part of the state of art, a lot of forms of dryer was experiment since the first realisation 12 000 years before, so we try to make the most complete list of kind of dryer, to inspire us and other to during the design of there dryer.
 Maybe some dryers which can be regroup in the same category but to be sure to list all kind of dryer, we separate all little difference.
 #### - Shell type (indirect solar natural convection)
@@ -191,10 +204,34 @@ More adapted for cereals, and that kind of products. That kind of dryer is compo
 
 ![screw dryer type](http://www.amb-rousset.com/wp-content/uploads/1702/12/SRN-AUD-L04-012223-vue-de-cote.jpg)
 
-#### 3. Spreading systems
+#### 3 Supplying systems
+#### 3.1 Containing systems
 Trays is the most using system to display product for artisanal or industrial application (exept for industrial drying of cereals), but other systems could be used in different applications.
 
 For example, people who just want to dry some plants suspend bunch in an hot room ...
+
+#### 3.1.1 Loosely
+
+##### 3.1.1.1 Reversal
+##### - Screw 
+See [Screw dryer](http://www.amb-rousset.com/products/sechoir-a-vis/) or [another dryer](http://www.heinkel.com/products/dryers-and-mixers/conical-screw-vacuum-dryer.aspx)
+
+##### 3.1.1.2 Not reversal
+
+##### - Cylindric contener - Silo
+![Silo type](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Form%20-%20silo%20type.JPG)
+
+##### - Square contener - Bac
+
+![square contener](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.fermedelaguilbardiere.fr%2Fimages%2Fdossiers%2Fhistorique%2F36-115906.jpg&f=1)
+
+#### 3.1.2 Scatter
+
+##### 3.1.2.1 Trays
+
+Trays is most common solution for convective dryer, exept cereal dryer, which use bigger contener.
+
+##### 3.1.2.1.1 Support
 
 ##### - Fabric
 Maybe the best fabric solution is mosquito net (~7 €/linear meter) because, air can easy cross it, but verify alimentary application before.
@@ -202,7 +239,7 @@ Maybe the best fabric solution is mosquito net (~7 €/linear meter) because, ai
 ![Tray with fabric](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20fabric.jpg)
 
 ##### - Screen
-Different kind of screen could be used, for example:
+Different kinds of screen could be used, for example:
 - fine grillage: it isn't an alimentary material, verify regulation before to use something
 - alimentary grille: generally using for oven or aging rack
 - ripening mat for cheese: that's a good solution because, it make for alimentary application so, there isn't problem with respect of regulation. Exist in different materials: plastic, inox
@@ -211,23 +248,95 @@ Different kind of screen could be used, for example:
 ![Fine grillage](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20screen.jpg)
 ![alimentary grille](http://www.materiel-cuisson-frigorifique.com/back/images_article/201207190116714.jpg)
 
-##### - Bar
+##### 3.1.2.1.2 Spread thickness
+
+##### - Thin layers
+![Thin layer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Spread%20system%20-%20Thin%20layer.JPG)
+
+##### - Thick layers
+![Thick layer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Spread%20system%20-%20Thick%20layer.JPG)
+
+##### 3.1.2.2 Bar
 That kind of display is more adapt to long product or to plant bunch.
 ![Bar](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20bar.jpg)    ![Bar(2)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20bar(2).jpg)
 
-##### - Pic
+##### 3.1.2.3 Pic
 Maybe with that technic, you can dry more fruit or vegetable than with trays, but it need more time to spread them.
 
 ![Pic](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20pic.jpg)
 
-##### - String
+##### 3.1.2.4 String
 More adapted for plant bunch, you can tie plant together and suspend them. It's a very tedious technic but which doesn't need any construction.
 
 ![Plant bunch](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.jardinerenville.fr%2Fwp-content%2Fuploads%2F2015%2F11%2Fplante1.jpg&f=1)
 
-##### - Forklift - Mobile trays
+#### 3.2 Loading systems
+
+##### 3.2.1 Manual - 
+
+##### 3.2.1.1 Slide system
+
+##### 3.2.1.1.1 Perpendicular to the door
+##### - Rail
+Like for storage drawer
+
+![Rail](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F31NIMmo-KaL._AC_UL160_SR160%2C160_.jpg&f=1)
+
+##### - Angle iron
+![Angle iron](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.leboutte.be%2Fimages%2Fcatalogue%2Fmetaux%2Fcorniere.jpg&f=1)
+
+##### - Wood batten
+![Wood batten](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.cmsdanskin.co.uk%2Fwp-content%2Fuploads%2F2013%2F07%2Fresilient-batten.jpg&f=1)
+
+##### 3.2.1.1.2 Parallel to the door
+
+##### - Bambou
+![Thin layer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Spread%20system%20-%20Thin%20layer.JPG)
+
+##### 3.2.1.2 Roll system
+
+##### - Cart - Mobile trays
 
 ![Mobile trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Drying%20rack%20-%20Forklift%20-%20Mobile%20trays.jpg)
+
+##### 3.2.1.3 Hang system
+
+##### - Hook
+
+##### - Knot
+![Plant bunch](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.jardinerenville.fr%2Fwp-content%2Fuploads%2F2015%2F11%2Fplante1.jpg&f=1)
+
+##### - Elastic
+
+##### 3.2.1.4 Distribut system
+
+##### 3.2.2 Automatic
+
+##### 3.2.2.1 Distributor system
+Pipe with electrical valvle
+![Distibutor system](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fsarljamase.pagesperso-orange.fr%2Fimages%2FMayrathN10.gif&f=1)
+
+##### 3.2.2.2 Conveyor system
+##### - Cart conveyor
+![Cart conveyor](https://www.cft-group.com/fr/anteprima_traydry_2_0450_1.jpg?h=924566629f59d8794623abbcff53479945be3c35)
+
+##### - Conveyor belt
+![Conveyor belt](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fsc01.alicdn.com%2Fkf%2FHTB1Nl3qLXXXXXcdXXXXq6xXFXXXX%2FT-Shirt-conveyor-belt-dryer-Textile-tunnel.jpg&f=1)
+
+##### 3.2.2.3 Endless srew system
+![Endless srew](http://www.lindner-sommerauer.fr/lindner/vis/image/P1050679.JPG)
+
+##### 3.3 Spreading system
+
+##### 3.3.1 Manual
+
+##### 3.3.2 Automatic
+
+##### - Equaliser
+
+![Equaliser](http://www.amb-rousset.com/wp-content/uploads/2012/02/SAE-AUD-L04-012224-vue2.jpg)
+
+##### - Vibration
 
 ### 4. Heat source
 Heat source is one of technical problem of dryer. Between effectiveness and energy independence, there is a real work to search what kind of heat source to what kind of application, to optimize known heat source and to mix some kind of heat source.
@@ -305,15 +414,19 @@ Different kind of heat exchanger can be used to transfer energy from 1st fluid t
 - Compost
 - Oil combustion
 - Wood combustion
+![Wood combustion](http://forum.latelierpaysan.org/download/file.php?id=2804&sid=1b5d89bf4791922e41dc12cb3ea7d67d)
 
 
 ### 5. Convection
 #### A. Kind
 ##### Natural: Work with rising warm airflow
+Not pulsed air
 
 ![Natural convection](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20natural.jpg)
 
 ##### Forced
+Pulsed air
+
 ##### - Electrical
 
 ![Forced convection - electrical](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20forced%20-%20electrical.jpg)
