@@ -485,7 +485,7 @@ claie
 Contact alimentaire indirect
 Tout les composants d’entrée
 
-
+- Classe IP 44 ? humidity restriction for electrical components
 
 
 ## IR drying
