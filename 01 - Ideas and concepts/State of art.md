@@ -200,11 +200,25 @@ Different kinds of screen could be used, for example:
 ![alimentary grille](http://www.materiel-cuisson-frigorifique.com/back/images_article/201207190116714.jpg)
 
 ##### 3.1.2.1.2 Spread thickness
+For plant drying you can choose to spread it by thick layer, you need to adapt the system for that kind of spreading, avoid pressure loss.
+For cutted fruit and vegetable, you need to spread product in thin layer.
 
 ##### - Thin layers
+Adavantage:
+- work with natural convection
+
+Disadvantage:
+- long time of supplying
+
 ![Thin layer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Spread%20system%20-%20Thin%20layer.JPG)
 
 ##### - Thick layers
+Adavantage:
+- easy to supply
+
+Disadvantage:
+- pressure loss (need forced convection)
+
 ![Thick layer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Spread%20system%20-%20Thick%20layer.JPG)
 
 ##### 3.1.2.2 Bar
