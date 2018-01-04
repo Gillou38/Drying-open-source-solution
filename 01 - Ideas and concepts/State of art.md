@@ -346,7 +346,7 @@ To size your solar panel:
 
 #### C. Warm and pollute flow
 That kind of heat source need a heat exchanger to separate pollute flow and drying flow.
-##### Heat exchanger 
+#### Heat exchanger 
 (source: http://www.uk-exchangers.com/heat-exchange-products/air-to-air-heat-exchangers/)
 Different kind of heat exchanger can be used to transfer energy from 1st fluid to a 2nd fluid. For beginning, we stay only in airflow exchanger.
 ##### - Plate type
@@ -361,33 +361,51 @@ Different kind of heat exchanger can be used to transfer energy from 1st fluid t
 
 ![Tubular type)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20exchanger%20-%20tubular%20type.jpg)
 
-##### Heat source
+#### Heat source
 - Compost
+
 - Oil combustion
+
 - Wood combustion
 ![Wood combustion](http://forum.latelierpaysan.org/download/file.php?id=2804&sid=1b5d89bf4791922e41dc12cb3ea7d67d)
 
 
 ### 5. Convection
 #### A. Kind
-##### Natural: Work with rising warm airflow
-Not pulsed air
+There is 2 kind of airflow creation using in dryer:
+- natural convection: the airflow isn't pulsed
+- forced convection: the airflow is pulsed by an additional system
+
+##### Natural convection
+It Work with rising warm airflow, so the airflow isn't pulsed by an additional system.
+
+So that kind of system generally use the natural caracteristic of warmflow to go up.
+
+That's a very simple system to make but it can't be regulate to improve drying, or just to avoid too high temperature with increase airflow.
 
 ![Natural convection](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20natural.jpg)
 
-##### Forced
-Pulsed air
+##### Forced convection
+Forced convection consist of a system which pulse airflow, to increase speed of drying, principally for 2 reasons.
+- For a professionnal application, producer need to have bigger production to respond to there financial need
+- With decrease of drying time, nutrient concentration increase. Drying is a physical chemistry reaction which deteriorate nutrient, so the faster is the best, but the faster need more energy.
 
 ##### - Electrical
+
+That's the more common solution for professional application, more expensive and complicated to make, with that kind of system, you can regulate the drying.
 
 ![Forced convection - electrical](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20forced%20-%20electrical.jpg)
 
 ##### - Wind forced
+That kind of system is autonomous in energy, but it need to have access to wind and can't be regulate.
 
 ![Forced convection - wind](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20forced%20-%20wind.jpg)
 
 #### B. Direction
+In that part we only speak for trays, in other kind of system, direction of the convection could be different.
+
 ##### Perpendicular to the trays
+The more common system use in DIY system because the easiest system to make and that work for each kind of product.
 
 ![Convection perpendicular to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20perpendicular%20to%20the%20trays.jpg)
 
@@ -401,6 +419,7 @@ Pulsed air
 ![Room distributor](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20air%20room%20repartition.jpg)
 
 ##### Parallel to the trays
+Only use for thin layer (all cutted fruit and vegetable, thin layer of plant), it's the most efficient choice because it divide warm airflow in all product and it limit pressure loss.
 
 ![Parallel to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20parallele%20to%20the%20trays.jpg) ![Parallel to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20parallele%20to%20the%20trays%20(2).jpg)   ![Parallel to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20parallele%20to%20the%20trays%20(3).jpg)   ![Parallel to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20parallele%20to%20the%20trays%20(4).jpg)
 
