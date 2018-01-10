@@ -22,6 +22,8 @@ Don’t hesitate to participate in one or more of the following activities:
     3.  [Organised state of
         art](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md)
 
+    4. Document drying science with engineer, scientific and farmer point of view
+
 3.  [Development](https://github.com/Gillou38/Drying-open-source-solution/tree/master/02%20-%20Developing):
     [Formalisation of technical
     problems](https://github.com/Gillou38/Drying-open-source-solution/tree/master/02%20-%20Developing/01%20-%20Functional%20analysis)
