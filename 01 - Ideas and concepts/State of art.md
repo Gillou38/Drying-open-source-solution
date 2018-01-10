@@ -352,6 +352,12 @@ To size your solar panel:
 - Stone 
 ![Inertial system)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20inertial%20system.jpg)
 
+#### Other kinf of panel
+##### Hybrid Panel PV/T (Photovoltaic and Thermical panel
+
+http://www.sft.asso.fr/Local/sft/dir/user-3775/documents/actes/congres_2011/Communications/133.pdf
+http://manifest.univ-ouargla.dz/documents/Archive/2015-2016/FSA/SMSTS%202015/SMSTS-2015_Soumission_n%c2%b047.pdf
+
 #### B. Electrical (resistor)
 
 ![Electrical)](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Heat%20source%20-%20electrical.jpg)
