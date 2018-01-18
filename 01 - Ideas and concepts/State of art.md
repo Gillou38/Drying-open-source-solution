@@ -429,6 +429,10 @@ The more common system use in DIY system because the easiest system to make and 
 
 ![Convection perpendicular to the trays](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art%20-%20Picture/Convection%20-%20perpendicular%20to%20the%20trays.jpg)
 
+##### Bottom up
+
+##### Up bottom
+
 ##### - Air repartition (plenum)
 - Air flow breaker
 
