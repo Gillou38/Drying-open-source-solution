@@ -2,6 +2,25 @@
 #test
 For basics category, we inspire by *“Les séchoirs solaires – Théorie et pratique”* de Michel Daguenet, because he made a huge work about drying science, and more applied to solar drying.
 
+# Summary
+## [Dryer for solid, centimetre scale](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md#dryer-for-solid-centimetre-scale)
+
+### [Convective Dryer](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md#convective-drying)
+
+[1 Global parameter](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md#1-global-parameters)
+
+[2 Drying room](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md#2-drying-room)
+
+[3 Suupling system](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md#3-supplying-systems)
+
+[4 Heat source](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md#4-heat-source)
+
+[5 Convection system](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md#5-convection)
+
+[6 Automation](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md#6-automation)
+
+[7 Alimentary legislation](https://github.com/Gillou38/Drying-open-source-solution/blob/master/01%20-%20Ideas%20and%20concepts/State%20of%20art.md#7-alimentary-legislation)
+
 # Dryer for solid, centimetre scale
 That part relate to drying of: 
 - plants
